@@ -16,13 +16,15 @@ var dir = 'exercises/',
   files = fs.readdirSync(dir);
 
 files.forEach(function(filename){
-  console.log(filename + '\n------------------');
-  var code = fs.readFileSync(dir + filename);
-  try {
-    vm.runInNewContext(code, context);
-  } catch (e){
-    console.error('ERROR - ' + e.message);
-  }
-  console.log('');
-});
+  fs.readFile(dir + filename, function(err, code){
+    console.log(filename + '\n------------------');
 
+    try {
+      vm.runInNewContext(code, context);
+    } catch (e){
+      console.error('ERROR - ' + e.message);
+    }
+
+    console.log('');
+  });
+});
