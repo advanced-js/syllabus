@@ -1,4 +1,4 @@
-// run with `rhino runner.js exercise.js [exercise2.js ...]`
+// run with `rhino helpers.js exercise.js [exercise2.js ...]`
 
 function assert(condition, message){
   message = message ? (' - ' + message) : '';
