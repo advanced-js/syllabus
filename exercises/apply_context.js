@@ -1,6 +1,10 @@
-function fullName(){
-  return this.first + ' ' + this.last;
+var myVariable = "I'm global!";
+
+function printMyVariable(){
+  return this.myVariable;
 }
 
-var myName = fullName.apply({ first: 'Bob', last: 'Hope' });
-assert(myName === 'Bob Hope', "should use the context of the provided object");
+assert(printMyVariable() === "I'm global!", "without specifying context");
+assert(printMyVariable.apply(this) === "I'm global!", "using 'this' context");
+
+assert(printMyVariable.apply({ myVariable: "I'm local!" }) === "I'm local!", "using object as context");

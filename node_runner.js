@@ -12,9 +12,9 @@ var context = {
   assert: function(condition, message){
     message = message ? (' - ' + message) : '';
     if (condition){
-      console.log('PASSED' + message);
+      console.log('PASS' + message);
     } else {
-      console.error('FAILED' + message);
+      console.error('FAIL' + message);
     }
   }
 };
