@@ -8,41 +8,59 @@ var fs = require('fs'),
   path = require('path'),
   vm = require('vm');
 
+
+var numPasses = 0,
+  numFailures = 0;
+
 var context = {
   assert: function(condition, message){
     message = message ? (' - ' + message) : '';
     if (condition){
       console.log('PASS' + message);
+      numPasses++;
     } else {
       console.error('FAIL' + message);
+      numFailures++;
     }
   }
 };
 
-function runExercise(filename){
+function runExercise(filename, callback){
   fs.readFile(filename, function(err, code){
-    if (err) throw err;
+    if (err) return callback(err);
 
     console.log(path.basename(filename) + '\n------------------');
 
     try {
       vm.runInNewContext(code, context);
     } catch (e){
+      numFailures++;
       console.error('ERROR - ' + e.message);
     }
 
     console.log('');
+    callback();
   });
 }
+
 
 var singleFile = process.argv[2];
 if (singleFile){
   runExercise(singleFile);
 } else {
   var dir = 'exercises/',
-    files = fs.readdirSync(dir);
+    files = fs.readdirSync(dir),
+    numFilesComplete = 0;
 
   files.forEach(function(file){
-    runExercise(dir + file);
+    runExercise(dir + file, function(err){
+      if (err) throw err;
+
+      numFilesComplete++;
+      if (numFilesComplete === files.length){
+        // complete!
+        console.log('\nPassed: ' + numPasses + '  Failed: ' + numFailures);
+      }
+    });
   });
 }
