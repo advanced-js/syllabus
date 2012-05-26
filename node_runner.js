@@ -10,7 +10,7 @@ var fs = require('fs'),
 
 
 var numPasses = 0,
-  numFailures = 0;
+  failures = [];
 
 var context = {
   assert: function(condition, message){
@@ -19,8 +19,9 @@ var context = {
       console.log('PASS' + message);
       numPasses++;
     } else {
-      console.error('FAIL' + message);
-      numFailures++;
+      message = 'FAIL' + message;
+      console.error(message);
+      failures.push(['', message]); // TODO find the filename?
     }
   },
   console: console,
@@ -36,8 +37,7 @@ function runExercise(filename){
     try {
       vm.runInNewContext(code, context);
     } catch (e){
-      numFailures++;
-      console.error('ERROR - ' + e.message);
+      failures.push([filename, 'ERROR - ' + e.message]);
     }
 
     console.log('');
@@ -58,5 +58,15 @@ if (singleFile){
 }
 
 process.on('exit', function(){
+  var numFailures = failures.length;
+  if (numFailures){
+    console.log('\n\nFAILURES\n------------------');
+    var failure;
+    for (var i = 0; i < numFailures; i++){
+      failure = failures[i];
+      console.log(failure[0] + ': ' + failure[1]);
+    }
+  }
+
   console.log('\nPassed: ' + numPasses + '  Failed: ' + numFailures);
 });
