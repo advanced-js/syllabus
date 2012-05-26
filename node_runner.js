@@ -23,12 +23,13 @@ var context = {
       numFailures++;
     }
   },
-  console: console
+  console: console,
+  setTimeout: setTimeout
 };
 
-function runExercise(filename, callback){
+function runExercise(filename){
   fs.readFile(filename, function(err, code){
-    if (err) return callback(err);
+    if (err) throw new Error(err);
 
     console.log(path.basename(filename) + '\n------------------');
 
@@ -40,31 +41,22 @@ function runExercise(filename, callback){
     }
 
     console.log('');
-    callback();
   });
-}
-
-function onComplete(){
-  console.log('\nPassed: ' + numPasses + '  Failed: ' + numFailures);
 }
 
 
 var singleFile = process.argv[2];
 if (singleFile){
-  runExercise(singleFile, onComplete);
+  runExercise(singleFile);
 } else {
   var dir = 'exercises/',
-    files = fs.readdirSync(dir),
-    numFilesComplete = 0;
+    files = fs.readdirSync(dir);
 
   files.forEach(function(file){
-    runExercise(dir + file, function(err){
-      if (err) throw err;
-
-      numFilesComplete++;
-      if (numFilesComplete === files.length){
-        onComplete();
-      }
-    });
+    runExercise(dir + file);
   });
 }
+
+process.on('exit', function(){
+  console.log('\nPassed: ' + numPasses + '  Failed: ' + numFailures);
+});
