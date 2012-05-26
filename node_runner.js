@@ -22,7 +22,8 @@ var context = {
       console.error('FAIL' + message);
       numFailures++;
     }
-  }
+  },
+  console: console
 };
 
 function runExercise(filename, callback){
@@ -43,10 +44,14 @@ function runExercise(filename, callback){
   });
 }
 
+function onComplete(){
+  console.log('\nPassed: ' + numPasses + '  Failed: ' + numFailures);
+}
+
 
 var singleFile = process.argv[2];
 if (singleFile){
-  runExercise(singleFile);
+  runExercise(singleFile, onComplete);
 } else {
   var dir = 'exercises/',
     files = fs.readdirSync(dir),
@@ -58,8 +63,7 @@ if (singleFile){
 
       numFilesComplete++;
       if (numFilesComplete === files.length){
-        // complete!
-        console.log('\nPassed: ' + numPasses + '  Failed: ' + numFailures);
+        onComplete();
       }
     });
   });
