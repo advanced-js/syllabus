@@ -7,9 +7,7 @@ order.push('before');
 setTimeout(function(){
   order.push('within');
 
-  assert(order[0] === 'before', "'before' executed first");
-  assert(order[1] === 'after', "asyn function is skipped");
-  assert(order[2] === 'within', "callback executed last");
+  assert(deepEqual(order, ['before', 'after', 'within']), "timeout callback executed last");
 }, 0);
 
 order.push('after');

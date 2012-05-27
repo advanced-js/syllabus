@@ -4,7 +4,8 @@
 // to run single file:
 //   $ node node_runner.js exercises/my_file_name.js
 
-var fs = require('fs'),
+var assert = require('assert'),
+  fs = require('fs'),
   path = require('path'),
   vm = require('vm');
 
@@ -25,6 +26,14 @@ var context = {
     }
   },
   console: console,
+  deepEqual: function(obj1, obj2){
+    try {
+      assert.deepEqual(obj1, obj2);
+      return true;
+    } catch (e){
+      return false;
+    }
+  },
   setTimeout: setTimeout
 };
 
