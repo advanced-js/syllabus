@@ -15,12 +15,11 @@ var numPasses = 0,
 
 var context = {
   assert: function(condition, message){
-    message = message ? (' - ' + message) : '';
     if (condition){
-      console.log('PASS' + message);
+      console.log('PASS - ' + message);
       numPasses++;
     } else {
-      message = 'FAIL' + message;
+      message = 'FAIL - ' + message;
       console.error(message);
       failures.push(['', message]); // TODO find the filename?
     }
