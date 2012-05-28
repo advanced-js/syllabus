@@ -13,6 +13,11 @@ var assert = require('assert'),
 var numPasses = 0,
   failures = [];
 
+function logError(filename, message){
+  console.error(message);
+  failures.push([filename, message]);
+}
+
 function runExercise(filename){
   fs.readFile(filename, function(err, code){
     if (err) throw new Error(err);
@@ -27,9 +32,7 @@ function runExercise(filename){
             console.log('PASS - ' + message);
             numPasses++;
           } else {
-            message = 'FAIL - ' + message;
-            console.error(message);
-            failures.push(['', message]); // TODO find the filename?
+            logError(filename, 'FAIL - ' + message);
           }
         },
         console: console,
@@ -44,7 +47,7 @@ function runExercise(filename){
         setTimeout: setTimeout
       });
     } catch (e){
-      failures.push([filename, 'ERROR - ' + e.message]);
+      logError(filename, 'ERROR - ' + e.message);
     }
 
     console.log('');
