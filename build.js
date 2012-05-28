@@ -36,7 +36,7 @@ var slides = files.map(function(file){
   if (i > -1) allFiles.splice(i, 1);
 
   var code = fs.readFileSync(dir + file);
-  return '<dt></dt>\n<dd><pre>' + code + '</pre></dd>\n';
+  return '<dt>' + file + '</dt>\n<dd><pre>' + code + '</pre></dd>\n';
 }).join('');
 
 if (allFiles.length) console.warn('UNUSED FILES:\n' + allFiles.join('\n'));
