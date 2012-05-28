@@ -13,29 +13,6 @@ var assert = require('assert'),
 var numPasses = 0,
   failures = [];
 
-var context = {
-  assert: function(condition, message){
-    if (condition){
-      console.log('PASS - ' + message);
-      numPasses++;
-    } else {
-      message = 'FAIL - ' + message;
-      console.error(message);
-      failures.push(['', message]); // TODO find the filename?
-    }
-  },
-  console: console,
-  deepEqual: function(obj1, obj2){
-    try {
-      assert.deepEqual(obj1, obj2);
-      return true;
-    } catch (e){
-      return false;
-    }
-  },
-  setTimeout: setTimeout
-};
-
 function runExercise(filename){
   fs.readFile(filename, function(err, code){
     if (err) throw new Error(err);
@@ -43,7 +20,29 @@ function runExercise(filename){
     console.log(path.basename(filename) + '\n------------------');
 
     try {
-      vm.runInNewContext(code, context);
+      // create new context for each run
+      vm.runInNewContext(code, {
+        assert: function(condition, message){
+          if (condition){
+            console.log('PASS - ' + message);
+            numPasses++;
+          } else {
+            message = 'FAIL - ' + message;
+            console.error(message);
+            failures.push(['', message]); // TODO find the filename?
+          }
+        },
+        console: console,
+        deepEqual: function(obj1, obj2){
+          try {
+            assert.deepEqual(obj1, obj2);
+            return true;
+          } catch (e){
+            return false;
+          }
+        },
+        setTimeout: setTimeout
+      });
     } catch (e){
       failures.push([filename, 'ERROR - ' + e.message]);
     }

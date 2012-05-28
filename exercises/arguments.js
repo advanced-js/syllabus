@@ -8,7 +8,7 @@ function echo(/* arguments */){
     list[i] = arguments[i];
   }
 
-  assert(list instanceof Array, "'list' is a real array"); // flaky?
+  assert(list instanceof Array, "'list' is a real array");
   assert(typeof list.join === 'function', "real arrays have join()");
 
   return list.join(', ');
