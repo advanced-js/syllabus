@@ -1,0 +1,225 @@
+<!-- saved from url=(0028)http://ejohn.org/apps/learn/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Advanced Javascript - Aidan Feldman</title>
+<style>
+body { background: #222; color: #FFF; font-family: Helvetica, Arial; font-size: 16px; }
+textarea, #pre { font-size: 20px; width: 100%; height: 425px; font-family: Monaco, Courier New; background: #000; color: #FFF; overflow: auto; margin: 0; border: 0; padding: 0 0 0 5px; }
+#container, #pre { position: absolute; top: 30px; width: 100%; }
+textarea { z-index: 1; }
+#pre { z-index: 2; }
+#area { position: absolute; top: 30px; left: 1%; width: 98%; }
+h3 { font-size: 24px; }
+h3.large { position: absolute; top: 45%; left: 0; width: 100%; font-size: 48px; text-align: center; }
+div.buttons { position: absolute; top: 0px; right: 5px; }
+input.run { font-weight: bold; }
+a { color: #EEE; text-decoration: none; border-bottom: 1px solid #EEE; }
+.FAIL b, .ERROR b { color: red; /* #990066 */ }
+.PASS b { color: #73C836; }
+#results { line-height: 1.3em; font-size: 18px; background: #222; z-index: 10; }
+</style>
+<link rel="stylesheet" href="http://ejohn.org/apps/learn/recipes.css">
+<script src="vendor/jquery.js"></script>
+<script src="vendor/jquery.chili.js"></script>
+<script src="vendor/recipes.js"></script>
+<script>
+jQuery(document).ready(function(){
+	jQuery("dl").hide();
+
+	jQuery("form").submit(function(){
+		jQuery("#results").empty();
+
+		try {
+			(new Function( jQuery("#code").val() ))();
+		} catch(e){
+			error(e.message);
+		}
+
+		for ( var item in window ) {
+			if ( !stasis[item] ) {
+				window[item] = undefined;
+				delete window[item];
+			}
+		}
+		return false;
+	});
+
+	jQuery("#code").keydown(function(e){
+		if ( this.setSelectionRange ) {
+			var start = this.selectionStart, val = this.value;
+
+			if ( e.keyCode == 13 ) {
+				var match = val.substring(0, start).match(/(^|\n)([ \t]*)([^\n]*)$/);
+				if ( match ) {
+					var spaces = match[2], length = spaces.length + 1;
+					this.value = val.substring(0, start) + "\n" + spaces + val.substr(this.selectionEnd);
+					this.setSelectionRange(start + length, start + length);
+					this.focus();
+					return false;
+				}
+			} else if ( e.keyCode == 8 ) {
+				if ( val.substring(start - 2, start) == "  " ) {
+					this.value = val.substring(0, start - 2) + val.substr(this.selectionEnd);
+					this.setSelectionRange(start - 2, start - 2);
+					this.focus();
+					return false;
+				}
+			} else if ( e.keyCode == 9 ) {
+				this.value = val.substring(0, start) + "  " + val.substr(this.selectionEnd);
+				this.setSelectionRange(start + 2, start + 2);
+				this.focus();
+				return false;
+			}
+		}
+	});
+
+	jQuery("#pre").dblclick(function(){
+		jQuery("#pre").hide();
+		jQuery("#code").focus();
+	});
+
+	jQuery("#prev").click(function(){
+		pos--;
+		loadSample();
+	});
+
+	jQuery("#next").click(function(){
+		pos++;
+		loadSample();
+	});
+
+	var stasis = {};
+	for ( var item in window ) {
+		stasis[item] = true;
+	}
+
+	var pos;
+
+	if ( location.hash ) {
+		pos = parseInt(location.hash.substr(1)) - 1;
+		loadSample();
+	} else {
+		showTOC();
+	}
+	
+	function showTOC(){
+		jQuery("#pre").empty();
+		jQuery("h3").removeClass("large").html("Advanced Javascript - Aidan Feldman");
+		jQuery("#pre, #code").height(425).show();
+		
+		jQuery("dd:empty").prev("dt").each(function(i){
+			var dt = jQuery("dt").index(this);
+			jQuery("<a href='#" + (dt+1) + "'>" + (i+1) + ") " + this.innerHTML + "\n</a>").click(function(){
+				pos = dt;
+				loadSample();
+				return false;
+			}).appendTo("#pre");
+		});
+		
+		jQuery("div.buttons").hide();
+	}
+
+	function loadSample(){
+		jQuery("div.buttons").show();
+		
+		var code = jQuery("#code");
+
+		var source = (jQuery("dd").eq(pos).find("pre").html() || "")
+		                        .replace(/(^|\n) /g, "$1").replace(/ ($|\n)/g, "$1");
+
+		if ( !source ) {
+			jQuery("h3").addClass("large");
+			jQuery("#pre, #code, #run, #cite").hide();
+		} else {
+			jQuery("h3").removeClass("large");
+			jQuery("#pre, #code, #cite").show();
+			
+			if ( source.match(/assert\(|log\(|error\(/) )
+				jQuery("#run").show();
+			else
+				jQuery("#run").hide();
+		}
+
+		jQuery("h3").html( (source ? "#" + (pos + 1) + ": " : "") + jQuery("dt").eq(pos).html() );
+		code.val( source.replace(/&amp;/g, "&").replace(/&lt;/g, "<").replace(/&gt;/g, ">") );
+		jQuery("#pre").html( source ).chili();
+		jQuery("#results").empty();
+
+		code.add("#pre").height(275)[0];
+
+		if ( code[0].scrollHeight > 275 )
+			code.add("#pre").height( code[0].scrollHeight + 5 );
+
+		var last = jQuery("dt").length - 1;
+
+		if ( pos == 0 )
+			jQuery("#prev").css("visibility", "hidden");
+		if ( pos > 0 )
+			jQuery("#prev").css("visibility", "visible");
+
+		if ( pos == last )
+			jQuery("#next").css("visibility", "hidden");
+		if ( pos < last )
+			jQuery("#next").css("visibility", "visible");
+
+		window.location.hash = pos + 1;
+	}
+	
+	setInterval(function(){
+		if ( location.hash != ("#" + (pos + 1)) ) {
+			var num = parseInt(location.hash.substr(1)) - 1;
+			if ( isNaN(num) ) {
+				if ( jQuery("div.buttons").is(":visible") ) {
+					showTOC();
+				}
+			} else {
+				pos = num;
+				loadSample();
+			}
+		}
+	}, 100);
+});
+</script>
+<script>
+function assert(pass, msg){
+  var type = pass ? "PASS" : "FAIL";
+  jQuery("#results").append("<li class='" + type + "'><b>" + type + "</b> " + msg + "</li>");
+}
+function error(msg){
+  jQuery("#results").append("<li class='ERROR'><b>ERROR</b> " + msg + "</li>");
+}
+function log(){
+  var msg = "";
+  for ( var i = 0; i < arguments.length; i++ ) {
+    msg += " " + arguments[i];
+  }
+  jQuery("#results").append("<li class='LOG'><b>LOG</b> " + msg + "</li>");
+}
+</script>
+</head>
+<body>
+<h3 class="">Advanced Javascript - Aidan Feldman</h3>
+<div id="area">
+<pre id="pre" class="javascript" style="height: 425px; ">
+  <a href="http://ejohn.org/apps/learn/#1">1) Start</a>
+</a></pre>
+<form id="form">
+<div class="buttons" style="display: none; ">
+<input type="submit" value="Run" class="run" id="run">
+<input type="button" id="prev" value="« Prev">
+<input type="button" id="next" value="Next »">
+</div>
+<div id="container">
+	<textarea id="code" wrap="off" style="height: 425px; "></textarea>
+	<ol id="results"></ol>
+	<p id="cite">Template blatantly stolen from <a href="http://ejohn.org/apps/learn">John Resig</a>.</p>
+</div>
+</form>
+</div>
+<dl style="display: none; ">
+<dt>Start</dt>
+<dd></dd>
+<%= examples %>
+</dl>
+
+
+</body></html>
