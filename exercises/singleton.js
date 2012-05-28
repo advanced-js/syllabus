@@ -1,7 +1,7 @@
 // Fake jQuery
 // Usage:
-//   $$('#mySelector') //=> element
-//   $$.cacheLength() //=> <int> (number of selectors in cache)
+//   $$('#mySelector') // element
+//   $$.cacheLength() // int (number of selectors in cache)
 
 var $$ = function(selector){
   assert(this !== $$, "'this' refers to the window/global");

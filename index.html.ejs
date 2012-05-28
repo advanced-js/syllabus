@@ -19,6 +19,7 @@ a { color: #EEE; text-decoration: none; border-bottom: 1px solid #EEE; }
 </style>
 <link rel="stylesheet" href="vendor/recipes.css">
 <script src="vendor/jquery.js"></script>
+<script src="vendor/underscore.js"></script>
 <script src="vendor/jquery.chili.js"></script>
 <script src="vendor/recipes.js"></script>
 <script>
@@ -194,6 +195,7 @@ function log(){
   }
   jQuery("#results").append("<li class='LOG'><b>LOG</b> " + msg + "</li>");
 }
+var deepEqual = _.isEqual;
 </script>
 </head>
 <body>

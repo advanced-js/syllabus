@@ -41,6 +41,5 @@ var slides = files.map(function(file){
 
 if (allFiles.length) console.warn('UNUSED FILES:\n' + allFiles.join('\n'));
 
-// console.log(template);
 var output = template.toString().replace(/<%=\s*examples\s*%>/, slides);
 fs.writeFileSync('index.html', output);
