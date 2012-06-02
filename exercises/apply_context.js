@@ -1,3 +1,5 @@
+// NOTE: broken in the deck
+
 var myVariable = "I'm global!";
 
 function printMyVariable(){

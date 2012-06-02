@@ -1,7 +1,7 @@
 # Advanced JavaScript
 
 * **Course:** [INFO1-CE9766001, NYU SCPS, Summer 2012](http://www.scps.nyu.edu/course-detail/INFO1-CE9766/20122/advanced-javascript)
-* **Location:** 7 East 12th Street, room 229
+* **Location:** [7 East 12th Street](https://maps.google.com/maps?q=7+East+12th+St,+NYC&hl=en&sll=40.734389,-73.993746&sspn=0.011479,0.016844&gl=us&hnear=7+E+12th+St,+New+York,+10003&t=m&z=16), room 229
 * **Schedule:** Sat., June 2nd and 9th 2012,  9-6pm (2 sessions)
 * **Instructor:** Aidan Feldman, alf9@nyu.edu
 * **Office Hours:** Thursdays 6-8pm, [Vineapple, 71 Pineapple St, Brooklyn](https://maps.google.com/maps?q=Vineapple,+71+Pineapple+Street,+Brooklyn,+NY&hl=en&sll=40.720162,-73.999817&sspn=0.011563,0.020492&oq=vine&hq=Vineapple,&hnear=71+Pineapple+St,+Brooklyn,+Kings,+New+York+11201&t=m&z=16&iwloc=A) during [Hacker Hours](http://hackerhours.org/) - or by appointment
@@ -22,7 +22,7 @@ We will dive into the nuances of JavaScript, how prototypal inheritance compares
 * Creating Backbone-like models from scratch
 * Test- and Pseudocode-Driven Development
 
-Topics will be demonstrated through live-code examples, which will be available online.  Additional individual and group exercises will completed in-class.
+Topics will be demonstrated through live-code examples, available at http://afeld.github.com/advanced_js.  Additional individual and group exercises will completed in-class.
 
 ## Assignment
 
@@ -32,10 +32,11 @@ As homework, you are going to re-create the game Text Twist.  The original (http
 * which set is used for each game (random vs. strict ordering): coder’s choice
 * letters from set displayed in random order at the start of each game
 * should be trivial to add additional sets
-* game should be playable with keyboard only
+* game should be playable with keyboard only (you might try jQuery [keypress](http://api.jquery.com/keypress/)/[keydown](http://api.jquery.com/keydown/))
 * display a player’s progress within a game, either similar to the Yahoo implementation (empty boxes on the left), or in a different creative way
 * a countdown showing the time remaining (time limit up to you)
 * a way to reset the game when it ends
+* use the Contructor (a.k.a. Object-Oriented) and Module patterns
 * commented, well-structured code
 
 Bonus points:
@@ -50,12 +51,12 @@ You are welcome to publish on the web (think of your own name), but **please ema
 
 ## Resources
 
-### Required Readings
+### Required Reading
 
 * http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 * http://bonsaiden.github.com/JavaScript-Garden/
 
-### Recommended Readings
+### Recommended Reading
 
 * http://ejohn.org/apps/learn/
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
@@ -67,7 +68,7 @@ You are welcome to publish on the web (think of your own name), but **please ema
 
 * [JSLint.com](http://jslint.com) / [JSHint.com](http://jshint.com)
 * [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/docs/overview) / [Firebug](http://getfirebug.com/)
-* [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript)
+* [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
 * [w3schools.com](http://www.w3schools.com/jsref/default.asp)
 * [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
 

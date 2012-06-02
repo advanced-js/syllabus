@@ -1,3 +1,5 @@
+// NOTE: broken in the deck
+
 var global = this; // 'window' in the browser
 
 
