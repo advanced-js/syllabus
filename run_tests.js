@@ -1,8 +1,8 @@
-// to run all exercises:
+// to run all examples:
 //   $ node node_runner.js
 //
 // to run single file:
-//   $ node node_runner.js exercises/my_file_name.js
+//   $ node node_runner.js examples/my_file_name.js
 
 var assert = require('assert'),
   fs = require('fs'),
@@ -59,7 +59,7 @@ var singleFile = process.argv[2];
 if (singleFile){
   runExercise(singleFile);
 } else {
-  var dir = 'exercises/',
+  var dir = 'examples/',
     files = fs.readdirSync(dir);
 
   files.forEach(function(file){

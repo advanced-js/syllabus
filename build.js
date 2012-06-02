@@ -2,7 +2,7 @@ var fs = require('fs');
 
 var template = fs.readFileSync('index.html.ejs');
 
-var dir = 'exercises/',
+var dir = 'examples/',
   allFiles = fs.readdirSync(dir);
 
 var files = [

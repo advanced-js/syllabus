@@ -22,7 +22,7 @@ We will dive into the nuances of JavaScript, how prototypal inheritance compares
 * Creating Backbone-like models from scratch
 * Test- and Pseudocode-Driven Development
 
-Topics will be demonstrated through live-code examples, available at http://afeld.github.com/advanced_js.  Additional individual and group exercises will completed in-class.
+Topics will be demonstrated through live-code examples, available at http://afeld.github.com/advanced_js.  Additional exercises will completed in-class.
 
 ## Assignment
 
@@ -92,15 +92,15 @@ Reuse and building upon ideas or code are major parts of modern software develop
 
 ## Using this repo
 
-[NodeJS](http://nodejs.org) is required (tested w/ Node v0.6.18).  To run the `exercises/`:
+[NodeJS](http://nodejs.org) is required (tested w/ Node v0.6.18).  To run the `examples/`:
 
     $ node run_tests.js
 
 To run an individual exercise:
 
-    $ node run_tests.js exercises/FILENAME.js
+    $ node run_tests.js examples/FILENAME.js
 
-To build the exercises as HTML:
+To build the examples as HTML:
 
     $ node build.js
 
