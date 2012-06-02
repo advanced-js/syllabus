@@ -43,3 +43,4 @@ if (allFiles.length) console.warn('UNUSED FILES:\n' + allFiles.join('\n'));
 
 var output = template.toString().replace(/<%=\s*examples\s*%>/, slides);
 fs.writeFileSync('index.html', output);
+console.log("wrote to index.html");
