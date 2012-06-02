@@ -13,5 +13,5 @@ assert(bob instanceof Object, "Objects under a namespace are just Objects");
 // * helps to organize
 // * doesn't crowd the global namespace
 
-// TASK: write a namespace() function that takes a period-delimited string, e.g.
+// EXERCISE: write a namespace() function that takes a period-delimited string, e.g.
 //   namespace('app.models');
