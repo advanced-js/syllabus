@@ -1,3 +1,5 @@
+// print all the arguments given, separated with a comma and a space
+
 function echo(/* arguments */){
   assert(!(arguments instanceof Array), "'arguments' isn't really an array");
   assert(typeof arguments.join === 'undefined', "no join method on 'arguments'");

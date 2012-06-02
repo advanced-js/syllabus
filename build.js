@@ -20,11 +20,17 @@ var files = [
   'event_loop.js',
   'callbacks.js',
 
+
   'object_literal.js',
   'oop_basic.js',
   'instance_vs_prototype.js',
+  
+  'object_prototype.js', // jump back to array_as_object
+  
   'oop_inheritance.js',
   'oop_private.js', // related to modules
+
+  'namespace.js',
 
   'singleton.js',
   'module.js'
@@ -39,7 +45,7 @@ var slides = files.map(function(file){
   return '<dt>' + file + '</dt>\n<dd><pre>' + code + '</pre></dd>\n';
 }).join('');
 
-if (allFiles.length) console.warn('UNUSED FILES:\n' + allFiles.join('\n'));
+if (allFiles.length) console.warn('UNUSED FILES:\n' + allFiles.join('\n') + '\n');
 
 var output = template.toString().replace(/<%=\s*examples\s*%>/, slides);
 fs.writeFileSync('index.html', output);
