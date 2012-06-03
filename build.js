@@ -28,9 +28,10 @@ var files = [
   'object_prototype.js', // jump back to array_as_object
   
   'oop_inheritance.js',
-  'oop_private.js', // related to modules
-
   'namespace.js',
+  'namespace_exercise.js',
+
+  'oop_private.js', // related to modules
 
   'singleton.js',
   'module.js'

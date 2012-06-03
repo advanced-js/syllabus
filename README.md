@@ -36,7 +36,7 @@ As homework, you are going to re-create the game Text Twist.  The original (http
 * display a player’s progress within a game, either similar to the Yahoo implementation (empty boxes on the left), or in a different creative way
 * a countdown showing the time remaining (time limit up to you)
 * a way to reset the game when it ends
-* use the Contructor (a.k.a. Object-Oriented) and Module patterns
+* use at least one of the Contructor, Factory or Module patterns
 * commented, well-structured code
 
 Bonus points:
