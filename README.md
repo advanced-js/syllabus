@@ -64,10 +64,16 @@ You are welcome to publish on the web (think of your own name), but **please ema
 * http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 * http://slides.html5rocks.com/
 
-### Tools/Reference
+### Tools
 
-* [JSLint.com](http://jslint.com) / [JSHint.com](http://jshint.com)
-* [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/docs/overview) / [Firebug](http://getfirebug.com/)
+* code validation: [JSLint.com](http://jslint.com) / [JSHint.com](http://jshint.com)
+* debugging: [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/docs/overview) ([tutorial](http://code.google.com/chrome/extensions/tut_debugging.html)) / [Firebug](http://getfirebug.com/)
+* sharing code snippets: [gist.github.com](https://gist.github.com/)
+* HTML/CSS/JS sandbox: [jsfiddle.net](http://jsfiddle.net/)
+* asking questions: [Stack Overflow](http://stackoverflow.com/)
+
+### Reference
+
 * [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
 * [w3schools.com](http://www.w3schools.com/jsref/default.asp)
 * [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
