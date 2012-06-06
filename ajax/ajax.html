@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title>AJAX example</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script>
+      $(document).ready(function(){
+        $.get('/data.json', function(data){
+          $('body').text(data.message);
+        });
+      });
+    </script>
+  </head>
+  <body>
+    Loading...
+  </body>
+</html>
