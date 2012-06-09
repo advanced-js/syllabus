@@ -5,9 +5,10 @@
     <script>
       $(document).ready(function(){
         var canvas = $('#sandbox')[0], // a.k.a. document.getElementById('sandbox');
-          ctx = canvas.getContext('2d');
+          ctx = canvas.getContext('2d'),
           faceLoaded = false,
-          stacheLoaded = false;
+          stacheLoaded = false,
+          face, stache;
 
         function draw(){
           ctx.drawImage(face, 0, 0);
@@ -17,14 +18,14 @@
           ctx.drawImage(stache, 75, 255, stacheAspect * newStacheHeight, newStacheHeight);
         }
 
-        var face = new Image();
+        face = new Image();
         face.onload = function(){
           faceLoaded = true;
           if (stacheLoaded) draw();
         };
         face.src = 'http://www.librarising.com/astrology/celebs/images2/QR/queenelizabethii.jpg';
 
-        var stache = new Image();
+        stache = new Image();
         stache.onload = function(){
           stacheLoaded = true;
           if (faceLoaded) draw();
