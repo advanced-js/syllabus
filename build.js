@@ -37,6 +37,9 @@ var files = [
   'module.js',
 
 
+  // day 2
+
+
   'class_vs_instance_methods.js',
   'hoisting.js',
   'bind.js'

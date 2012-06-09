@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <title>Canvas example</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script>
+      $(document).ready(function(){
+        var canvas = $('#sandbox')[0], // a.k.a. document.getElementById('sandbox');
+          ctx = canvas.getContext('2d');
+          faceLoaded = false,
+          stacheLoaded = false;
+
+        function draw(){
+          ctx.drawImage(face, 0, 0);
+
+          var stacheAspect = stache.width / stache.height;
+          var newStacheHeight = 50;
+          ctx.drawImage(stache, 75, 255, stacheAspect * newStacheHeight, newStacheHeight);
+        }
+
+        var face = new Image();
+        face.onload = function(){
+          faceLoaded = true;
+          if (stacheLoaded) draw();
+        };
+        face.src = 'http://www.librarising.com/astrology/celebs/images2/QR/queenelizabethii.jpg';
+
+        var stache = new Image();
+        stache.onload = function(){
+          stacheLoaded = true;
+          if (faceLoaded) draw();
+        };
+        stache.src = 'http://mustachify.me/images/staches/mustache_03.png';
+      });
+    </script>
+  </head>
+  <body>
+    <canvas id="sandbox" width="400" height="400">
+      Sorry, get a better browser.
+    </canvas>
+  </body>
+</html>

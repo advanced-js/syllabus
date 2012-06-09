@@ -1,0 +1,35 @@
+<html>
+  <head>
+    <title>Canvas example</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script>
+      $(document).ready(function(){
+        var canvas = $('#sandbox')[0], // a.k.a. document.getElementById('sandbox');
+          ctx = canvas.getContext('2d');
+
+        var face = new Image();
+        face.onload = function(){
+          // load the stache *after* the face has loaded
+          var stache = new Image();
+          stache.onload = function(){
+            // draw the face first
+            ctx.drawImage(face, 0, 0);
+
+            var aspect = stache.width / stache.height;
+            var newHeight = 100;
+            ctx.drawImage(stache, 0, 0, aspect * newHeight, newHeight);
+          };
+          stache.src = 'http://mustachify.me/images/staches/mustache_03.png';
+        };
+        face.src = 'http://www.librarising.com/astrology/celebs/images2/QR/queenelizabethii.jpg';
+      });
+
+      // problem?
+    </script>
+  </head>
+  <body>
+    <canvas id="sandbox" width="400" height="400">
+      Sorry, get a better browser.
+    </canvas>
+  </body>
+</html>
