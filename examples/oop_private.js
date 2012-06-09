@@ -2,8 +2,8 @@ var User = function(username, pass){
   var password = pass;
   this.username = username;
 
-  this.login = function(pass){
-    return pass === password;
+  this.login = function(checkPass){
+    return checkPass === password;
   };
 };
 

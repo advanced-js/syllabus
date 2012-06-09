@@ -21,5 +21,6 @@ assert(unbound() === 'undefined undefined', "without binding, function calls use
 var bound = bind(unbound, obj);
 
 assert(typeof bound === 'function', "bind() returns a function");
+assert(bound !== unbound, "returns a new function");
 assert(bound() === 'Bob Hope', "bound function will use the specified context");
 assert(bound.call({}) === 'Bob Hope', "bound function can be called in any context");
