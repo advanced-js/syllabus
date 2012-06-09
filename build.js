@@ -37,7 +37,9 @@ var files = [
   'module.js',
 
 
-  'class_vs_instance_methods.js'
+  'class_vs_instance_methods.js',
+  'hoisting.js',
+  'bind.js'
 ];
 
 var slides = files.map(function(file){
