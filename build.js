@@ -34,7 +34,10 @@ var files = [
   'oop_private.js', // related to modules
 
   'singleton.js',
-  'module.js'
+  'module.js',
+
+
+  'class_vs_instance_methods.js'
 ];
 
 var slides = files.map(function(file){
