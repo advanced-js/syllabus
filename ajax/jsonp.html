@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>AJAX example</title>
+    <script>
+      // globally-defined function - defined BEFORE JSONP call
+      function vimeoCallback(data){
+        alert("Got data for video '" + data.title + "'");
+      }
+    </script>
+    <script src="http://vimeo.com/api/oembed.json?callback=vimeoCallback&url=http%3A//vimeo.com/7100569"></script>
+  </head>
+  <body>
+    JSONP Example
+  </body>
+</html>
