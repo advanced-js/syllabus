@@ -3,7 +3,7 @@
 * **Course:** [INFO1-CE9766001, NYU SCPS, Summer 2012](http://www.scps.nyu.edu/course-detail/INFO1-CE9766/20122/advanced-javascript)
 * **Location:** [7 East 12th Street](https://maps.google.com/maps?q=7+East+12th+St,+NYC&hl=en&sll=40.734389,-73.993746&sspn=0.011479,0.016844&gl=us&hnear=7+E+12th+St,+New+York,+10003&t=m&z=16), room 229
 * **Schedule:** Sat., June 2nd and 9th 2012,  9-6pm (2 sessions)
-* **Instructor:** Aidan Feldman, alf9@nyu.edu
+* **Instructor:** Aidan Feldman, alf9 [at] nyu [dot] edu
 * **Office Hours:** Thursdays 6-8pm, [Vineapple, 71 Pineapple St, Brooklyn](https://maps.google.com/maps?q=Vineapple,+71+Pineapple+Street,+Brooklyn,+NY&hl=en&sll=40.720162,-73.999817&sspn=0.011563,0.020492&oq=vine&hq=Vineapple,&hnear=71+Pineapple+St,+Brooklyn,+Kings,+New+York+11201&t=m&z=16&iwloc=A) during [Hacker Hours](http://hackerhours.org/) - or by appointment
 * **Prerequisites:** [INFO1-CE9755 (JavaScript)](http://www.scps.nyu.edu/course-detail/INFO1-CE9755/20122/javascript), or intermediate knowledge of HTML and JavaScript
 
@@ -47,35 +47,36 @@ Bonus points:
 * animations (using JavaScript or CSS3)
 * variations or enhancements to the gameplay (please provide a written explanation of the expected behavior)
 
-You are welcome to publish on the web (think of your own name), but **please email files/folder/.zip of all necessary files to instructor (alf9@nyu.edu) by the start of the second session.**  You will also have the option to demo your game to the class.
+You are welcome to publish on the web (think of your own name), but **please email files/folder/.zip of all necessary files to instructor (alf9 [at] nyu [dot] edu) by the start of the second session.**  You will also have the option to demo your game to the class.
 
 ## Resources
 
 ### Required Reading
 
-* http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
-* http://bonsaiden.github.com/JavaScript-Garden/
+* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
 
 ### Recommended Reading
 
 * http://ejohn.org/apps/learn/
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
 * [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
-* http://addyosmani.com/resources/essentialjsdesignpatterns/book/
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * http://slides.html5rocks.com/
+* Thoughtbot's [Javascript Trail Map](https://github.com/thoughtbot/trail-map/blob/master/trails/javascript.md)
 
 ### Tools
 
-* code validation: [JSLint.com](http://jslint.com) / [JSHint.com](http://jshint.com)
+* code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
 * debugging: [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/docs/overview) ([tutorial](http://code.google.com/chrome/extensions/tut_debugging.html)) / [Firebug](http://getfirebug.com/)
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
-* HTML/CSS/JS sandbox: [jsfiddle.net](http://jsfiddle.net/)
+* HTML/CSS/JS sandbox: [jsFiddle](http://jsfiddle.net/) / [JS Bin](http://jsbin.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
 
 ### Reference
 
 * [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
-* [w3schools.com](http://www.w3schools.com/jsref/default.asp)
+* [w3schools](http://www.w3schools.com/jsref/default.asp)
 * [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
 
 ## Grading
