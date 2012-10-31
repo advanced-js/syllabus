@@ -64,7 +64,7 @@ You are welcome to publish on the web (think of your own name), but **please ema
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * http://slides.html5rocks.com/
 * Thoughtbot's [Javascript Trail Map](https://github.com/thoughtbot/trail-map/blob/master/trails/javascript.md)
-* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) - thanks @michaelBenin!
+* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) - thanks [michaelBenin](https://github.com/michaelBenin)!
 
 ### Tools
 
