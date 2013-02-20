@@ -64,7 +64,6 @@ You are welcome to publish on the web (think of your own name), but **please ema
 * [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 * [HTML5 Rocks slides](http://slides.html5rocks.com/)
-* Thoughtbot's [Javascript Trail Map](https://learn.thoughtbot.com/javascript)
 * [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
 * [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman - thanks [michaelBenin](https://github.com/michaelBenin)!
 
@@ -74,6 +73,12 @@ This class assumes you are confident with this material, but in case you need a 
 
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke
+
+### Other Lists
+
+* [Code School](http://www.codeschool.com/paths/javascript)
+* Thoughtbot's [Javascript Trail Map](https://learn.thoughtbot.com/javascript)
+* [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 
 ### Tools
 
