@@ -61,11 +61,12 @@ You are welcome to publish on the web (think of your own name), but **please ema
 * [Learning Advanced JavaScript slides](http://ejohn.org/apps/learn/) by John Resig
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
 * [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X/) by Alex MacCaw
+* [JavaScript Patterns](http://shichuan.github.com/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
 * [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 * [HTML5 Rocks slides](http://slides.html5rocks.com/)
 * [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
-* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman - thanks [michaelBenin](https://github.com/michaelBenin)!
+* [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks [michaelBenin](https://github.com/michaelBenin))
 * @darcyclarke's [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) (for testing yourself)
 
 ### Beginner Materials
