@@ -67,7 +67,7 @@ You are welcome to publish on the web (think of your own name), but **please ema
 * [HTML5 Rocks slides](http://slides.html5rocks.com/)
 * [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
 * [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks [michaelBenin](https://github.com/michaelBenin))
-* @darcyclarke's [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) (for testing yourself)
+* [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
 
 ### Beginner Materials
 
