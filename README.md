@@ -5,11 +5,18 @@
 * **Schedule:** Saturdays, April 6th through May 4th 2013, 10am-1pm (5 sessions)
 * **Instructor:** Aidan Feldman, alf9 [at] nyu [dot] edu
 * **Office Hours:** Sundays 4-6pm, [Vineapple, 71 Pineapple St, Brooklyn](https://maps.google.com/maps?q=Vineapple,+71+Pineapple+Street,+Brooklyn,+NY&hl=en&sll=40.720162,-73.999817&sspn=0.011563,0.020492&oq=vine&hq=Vineapple,&hnear=71+Pineapple+St,+Brooklyn,+Kings,+New+York+11201&t=m&z=16&iwloc=A) during [Hacker Hours](http://hackerhours.org/) - or by appointment
-* **Prerequisites:** [INFO1-CE9755 (JavaScript)](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755), or strong intermediate knowledge of HTML and JavaScript (equivalent of Chapters 1-5 of [Eloquent JavaScript](http://eloquentjavascript.net/contents.html))
 
 ## Course Description
 
 Learn best practices in JavaScript in this intensive, two-day course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
+
+## Prerequisites
+
+The following, or equivalent:
+
+* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](https://github.com/afeld/advanced_js/blob/master/INFO1-CE9755%20JavaScript.pdf?raw=true))
+* Understanding of content covered in Chapters 1-5 of [Eloquent JavaScript](http://eloquentjavascript.net/contents.html))
+* Strong intermediate knowledge of HTML
 
 ## Course Overview
 
