@@ -36,6 +36,7 @@ Topics will be demonstrated through live-code examples, available at [afeld.gith
 ### By class 2
 
 * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* Finish up and send `echo()` exercise
 * Write [jQuery plugin](http://docs.jquery.com/Plugins/Authoring) that makes an element act like a `<blink>` tag
 
 ```javascript
