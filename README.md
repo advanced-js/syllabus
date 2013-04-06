@@ -1,37 +1,37 @@
 # Advanced JavaScript
 
 * **Course:** [INFO1-CE9766, NYU SCPS, Spring 2013](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
-* **Location:** TBA
+* **Location:** 7 E 12th St, Rm 227
 * **Schedule:** Saturdays, April 6th through May 4th 2013, 10am-1pm (5 sessions)
 * **Instructor:** Aidan Feldman, alf9 [at] nyu [dot] edu
-* **Office Hours:** Sundays 4-6pm, [Vineapple, 71 Pineapple St, Brooklyn](https://maps.google.com/maps?q=Vineapple,+71+Pineapple+Street,+Brooklyn,+NY&hl=en&sll=40.720162,-73.999817&sspn=0.011563,0.020492&oq=vine&hq=Vineapple,&hnear=71+Pineapple+St,+Brooklyn,+Kings,+New+York+11201&t=m&z=16&iwloc=A) during [Hacker Hours](http://hackerhours.org/) - or by appointment
+* **Office Hours:** Sundays during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://nyc.hackerhours.org/events/calendar/) for schedule), or by appointment
 
 ## Course Description
 
-Learn best practices in JavaScript in this intensive, two-day course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
+Learn best practices in JavaScript in this intensive, five-session course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
 
 ## Prerequisites
 
 The following, or equivalent:
 
 * [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](https://github.com/afeld/advanced_js/blob/master/INFO1-CE9755%20JavaScript.pdf?raw=true))
-* Understanding of content covered in Chapters 1-5 of [Eloquent JavaScript](http://eloquentjavascript.net/contents.html))
-* Strong intermediate knowledge of HTML
+* Understanding of topics covered in Chapters 1-5 of [Eloquent JavaScript](http://eloquentjavascript.net/contents.html))
+* Strong intermediate knowledge of HTML, and at least basics of CSS
 
 ## Course Overview
 
-We will dive into the nuances of JavaScript, how prototypal inheritance compares to classical inheritance, and how this can be used to build dynamic and complex web applications.  Modern tools like jQuery and BackboneJS will be discussed, but students will learn the building blocks of these frameworks and after this course be able to understand what is happening under the hood.  The focus will be on client-side development, though much applies to server-side systems like NodeJS, as well.  Topics covered include:
+We will dive into the nuances of JavaScript, how prototypal inheritance compares to classical inheritance, and how this can be used to build dynamic and complex web applications.  Modern tools like jQuery and BackboneJS will be discussed, but students will learn the building blocks of these frameworks and after this course be able to understand what is happening under the hood.  The focus will be on development for browsers, though most applies to other systems like Node.js, Phonegap, etc.  Topics covered include:
 
-* Encapsulation, Closures and Scope
-* Classical vs. Prototypal Inheritance
-* The Event Loop
+* Encapsulation, closures and scope
+* Classical vs. prototypal inheritance
+* The event loop
 * AJAX and JSONP
-* Creating Backbone-like models from scratch
+* Creating MVC-style models (a'la Backbone.js) from scratch
 * Test- and Pseudocode-Driven Development
 
 Topics will be demonstrated through live-code examples, available at http://afeld.github.com/advanced_js.  Additional exercises will completed in-class.
 
-## Assignment
+## Project
 
 As homework, you are going to re-create the game Text Twist.  The original (http://games.yahoo.com/console/tx) is an old-school Java applet... we want to bring it into this decade and port to JavaScript.  Spend a bit of time playing it to get the feel (warning: addictive).  The requirements:
 
@@ -123,7 +123,7 @@ Reuse and building upon ideas or code are major parts of modern software develop
 
 ## Using this repo
 
-[NodeJS](http://nodejs.org) is required (tested w/ Node v0.6.18).  To run the `examples/`:
+[Node.js](http://nodejs.org) is required (tested w/ Node v0.10.2).  To run the `examples/`:
 
     $ node run_tests.js
 
