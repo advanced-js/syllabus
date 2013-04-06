@@ -8,6 +8,7 @@ var dir = 'examples/',
 var files = [
   'array_as_object.js',
   'pass_by_reference.js',
+  'countdown_exercise.js',
   'self_executing_functions.js', // re-referenced in modules
 
   'this.js',
