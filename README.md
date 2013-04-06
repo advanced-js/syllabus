@@ -38,6 +38,11 @@ Topics will be demonstrated through live-code examples, available at [afeld.gith
 * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * Write [jQuery plugin](http://docs.jquery.com/Plugins/Authoring) that makes an element act like a `<blink>` tag
 
+```javascript
+// show/hide every 500ms
+jQuery('.myDiv').blink(500);
+```
+
 ## Project
 
 As homework, you are going to re-create the game Text Twist.  The original (http://games.yahoo.com/console/tx) is an old-school Java applet... we want to bring it into this decade and port to JavaScript.  Spend a bit of time playing it to get the feel (warning: addictive).  The requirements:
