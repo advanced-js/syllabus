@@ -31,6 +31,13 @@ We will dive into the nuances of JavaScript, how prototypal inheritance compares
 
 Topics will be demonstrated through live-code examples, available at [afeld.github.io/advanced_js](http://afeld.github.io/advanced_js/).  Additional exercises will completed in-class.
 
+## Homework
+
+### By class 2
+
+* Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* Write [jQuery plugin](http://docs.jquery.com/Plugins/Authoring) that makes an element act like a `<blink>` tag
+
 ## Project
 
 As homework, you are going to re-create the game Text Twist.  The original (http://games.yahoo.com/console/tx) is an old-school Java applet... we want to bring it into this decade and port to JavaScript.  Spend a bit of time playing it to get the feel (warning: addictive).  The requirements:
@@ -60,7 +67,6 @@ You are welcome to publish on the web (think of your own name), but **please ema
 
 ### Required Reading
 
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
 
 ### Recommended Reading
