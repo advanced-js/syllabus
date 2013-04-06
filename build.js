@@ -16,6 +16,7 @@ var files = [
   'call_vs_apply.js',
 
   'arguments.js',
+  'echo_exercise.js',
   'extend.js',
 
   'event_loop.js',
@@ -36,10 +37,6 @@ var files = [
 
   'singleton.js',
   'module.js',
-
-
-  // day 2
-
 
   'class_vs_instance_methods.js',
   'hoisting.js',
