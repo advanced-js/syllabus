@@ -29,7 +29,7 @@ We will dive into the nuances of JavaScript, how prototypal inheritance compares
 * Creating MVC-style models (a'la Backbone.js) from scratch
 * Test- and Pseudocode-Driven Development
 
-Topics will be demonstrated through live-code examples, available at http://afeld.github.com/advanced_js.  Additional exercises will completed in-class.
+Topics will be demonstrated through live-code examples, available at [afeld.github.io/advanced_js](http://afeld.github.io/advanced_js/).  Additional exercises will completed in-class.
 
 ## Project
 
