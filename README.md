@@ -15,7 +15,7 @@ Learn best practices in JavaScript in this intensive, five-session course. Topic
 The following, or equivalent:
 
 * [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](https://github.com/afeld/advanced_js/blob/master/vendor/INFO1-CE9755%20JavaScript.pdf?raw=true))
-* Understanding of topics covered in Chapters 1-5 of [Eloquent JavaScript](http://eloquentjavascript.net/contents.html))
+* Understanding of variables, data types, control flow, and basic function usage in JavaScript - see [Beginner Materials](#beginner-materials)
 * Strong intermediate knowledge of HTML, and at least basics of CSS
 
 ## Course Overview
@@ -95,7 +95,7 @@ You are welcome to publish on the web (think of your own name), but **please ema
 This class assumes you are confident with this material, but in case you need a brush-up...
 
 * [Codecademy](http://www.codecademy.com/tracks/javascript)
-* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke
+* [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
 
 ### Other Lists
 
