@@ -73,6 +73,7 @@ You are welcome to publish on the web (think of your own name), but **please ema
 
 ### Required Reading
 
+* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
 
 ### Recommended Reading
@@ -83,6 +84,7 @@ You are welcome to publish on the web (think of your own name), but **please ema
 * [JavaScript Patterns](http://shichuan.github.com/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
 * [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
+* [Test-Driven JavaScript Development](http://www.amazon.com/Test-Driven-JavaScript-Development-Developers-Library/dp/0321683919) by Christian Johansen
 * [HTML5 Rocks slides](http://slides.html5rocks.com/)
 * [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
 * [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks [michaelBenin](https://github.com/michaelBenin))
