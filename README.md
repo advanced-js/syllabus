@@ -34,6 +34,8 @@ Topics will be demonstrated through live-code examples, available at [afeld.gith
 
 ## Homework
 
+Please email assignments by the start of the listed class to the instructor.  Send your assignments in an online sandbox (see [tools](https://github.com/afeld/advanced_js#tools)), or as a self-contained, runnable files within a ZIP as an attachment.
+
 ### By class 2
 
 * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
