@@ -52,6 +52,16 @@ jQuery('.myDiv').blink(500);
 * Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
 * Start on [project](#project)
 
+### By class 4
+
+* Finish Memory game, v1. ([example](http://www.zefrank.com/memory/))
+* Finish Text Twist, v1.
+
+### By class 5
+
+* Refactor Memory and Text Twist to use 'classes'.
+* ...
+
 ## Project
 
 As homework, you are going to re-create the game Text Twist.  The original (http://zone.msn.com/en/texttwist/, or [gameplay video](http://www.youtube.com/watch?v=qEfor-WdWTk&t=0m13s)) is an old-school Flash app... we want to bring it into this decade and port to JavaScript.  Spend a bit of time playing it to get the feel (warning: addictive).  The requirements:
