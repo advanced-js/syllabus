@@ -66,11 +66,13 @@ jQuery('.myDiv').blink(500);
 
 As homework, you are going to re-create the game Text Twist.  The original (http://zone.msn.com/en/texttwist/, or [gameplay video](http://www.youtube.com/watch?v=qEfor-WdWTk&t=0m13s)) is an old-school Flash app... we want to bring it into this decade and port to JavaScript.  Spend a bit of time playing it to get the feel (warning: addictive).  The requirements:
 
-* two sets of letters (get a single set working first)
+* two sets of letters
+    * get a single set working first
+    * the dictionaries can be small - just enough to show that the game works
+    * should be trivial to add additional sets
 * which set is used for each game (random vs. strict ordering): coder’s choice
 * letters from set displayed in random order at the start of each game
-* should be trivial to add additional sets
-* game should be playable with keyboard only (you might try jQuery [keypress](http://api.jquery.com/keypress/)/[keydown](http://api.jquery.com/keydown/))
+* game should be playable with keyboard only (you might use jQuery [keypress](http://api.jquery.com/keypress/)/[keydown](http://api.jquery.com/keydown/))
 * display a player’s progress within a game, either similar to the Yahoo implementation (empty boxes on the left), or in a different creative way
 * a countdown showing the time remaining (time limit up to you)
 * a way to reset the game when it ends
