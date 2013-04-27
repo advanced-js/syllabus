@@ -10,8 +10,14 @@ namespace('app.models');
 // app.models.User = function(){};
 
 namespace('app.views');
-// assert(typeof app.models.User === 'function', "app.models.User should still be available");
+// app.views.User = function(){};
+// assert(app.models.User !== app.views.User, "different namespaces don't override each other");
 
 namespace('foo.lib.external');
+// is synonymous to:
+//   
+//   var foo = {};
+//   foo.lib = {};
+//   foo.lib.external = {};
 
-// start here: https://developer.mozilla.org/en/JavaScript/Reference/Global_Objects/String
+// start here: https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/String/split
