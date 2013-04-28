@@ -60,7 +60,7 @@ jQuery('.myDiv').blink(500);
 ### By class 5
 
 * Refactor Memory and Text Twist to use 'classes'.
-* ...
+* Advance at least one "level" from where you left off in class in the `namespace` exercise.
 
 ## Project
 
