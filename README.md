@@ -122,6 +122,7 @@ This class assumes you are confident with this material, but in case you need a 
 * [Code School](http://www.codeschool.com/paths/javascript)
 * Thoughtbot's [Javascript Trail Map](https://learn.thoughtbot.com/javascript)
 * [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+* [Teach Yourself to Code](http://teachyourselftocode.com/)
 
 ### Tools
 
