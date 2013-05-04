@@ -3,8 +3,11 @@
     <title>AJAX example</title>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script>
-      // see server.js for instructions
-      $.get('/data.json', function(data){
+      // to run:
+      //   $ cd <this directory>
+      //   $ python -m SimpleHTTPServer
+      //   # open http://localhost:8000/ajax.html
+      $.get('example.json', function(data){
         alert(data.message);
       });
     </script>
