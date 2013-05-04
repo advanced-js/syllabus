@@ -43,6 +43,7 @@ Please email assignments to the instructor by the start of the next class.  Send
     * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
     * Finish up and send `echo()` exercise
     * Write [jQuery plugin](http://docs.jquery.com/Plugins/Authoring) that makes an element act like a `<blink>` tag
+
         ```javascript
         // show/hide every 500ms
         jQuery('.myDiv').blink(500);
@@ -70,7 +71,7 @@ Please email assignments to the instructor by the start of the next class.  Send
 ### Class 5
 
 * Present projects
-* Cover AJAX/JSONP
+* Cover AJAX/JSONP ([files](https://github.com/afeld/advanced_js/tree/master/ajax))
 * Cover handling parallel/serial async requests
     * [async](https://github.com/caolan/async#control-flow-1) library
     * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
