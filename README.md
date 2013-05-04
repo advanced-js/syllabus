@@ -1,5 +1,7 @@
 # Advanced JavaScript
 
+***See this README prettier [here](http://documentup.com/afeld/advanced_js).***
+
 * **Course:** [INFO1-CE9766, NYU SCPS, Spring 2013](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
 * **Location:** 7 E 12th St, Rm 227
 * **Schedule:** Saturdays, April 6th through May 4th 2013, 10am-1pm (5 sessions)
