@@ -112,6 +112,7 @@ You are welcome to publish on the web (think of your own name), but **please ema
 
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
+* https://twitter.com/necolas/status/291978260433219584
 
 ### Recommended Reading
 
