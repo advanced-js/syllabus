@@ -2,9 +2,9 @@
 
 ***See this README prettier [here](http://documentup.com/afeld/advanced_js).***
 
-* **Course:** [INFO1-CE9766, NYU SCPS, Spring 2013](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
+* **Course:** [INFO1-CE9766, NYU SCPS, Summer 2013](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
 * **Location:** 7 E 12th St, Rm 227
-* **Schedule:** Saturdays, April 6th through May 4th 2013, 10am-1pm (5 sessions)
+* **Schedule:** Saturdays, July 13th through Aug 17th 2013 (except 8/10), 10am-1pm (5 sessions)
 * **Instructor:** Aidan Feldman, alf9 [at] nyu [dot] edu
 * **Office Hours:** Sundays during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://nyc.hackerhours.org/events/calendar/) for schedule), or by appointment
 
@@ -104,7 +104,7 @@ Bonus points:
 * animations (using JavaScript or CSS3)
 * variations or enhancements to the gameplay (please provide a written explanation of the expected behavior)
 
-You are welcome to publish on the web (think of your own name), but **please email files/folder/.zip of all necessary files to instructor (alf9 [at] nyu [dot] edu) by the start of the second session.**  You will also have the option to demo your game to the class.
+You are welcome to publish on the web (think of your own name), but **please email files/folder/.zip of all necessary files to instructor (alf9 [at] nyu [dot] edu) by the start of the final session.**  You will also have the option to demo your game to the class.
 
 ## Resources
 
