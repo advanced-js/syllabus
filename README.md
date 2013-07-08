@@ -147,7 +147,7 @@ This class assumes you are confident with this material, but in case you need a 
 * code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
 * debugging: [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/docs/overview) ([tutorial](http://code.google.com/chrome/extensions/tut_debugging.html)) / [Firebug](http://getfirebug.com/)
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
-* HTML/CSS/JS sandbox: [jsFiddle](http://jsfiddle.net/) / [JS Bin](http://jsbin.com/)
+* HTML/CSS/JS sandbox: [jsFiddle](http://jsfiddle.net/) / [JS Bin](http://jsbin.com/) / [bl.ocks.org](http://bl.ocks.org/) / [CodePen](http://codepen.io/pen/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
 
 ### Reference
