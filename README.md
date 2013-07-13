@@ -41,9 +41,10 @@ Please email assignments to the instructor by the start of the next class.  Send
 
 ### Class 1
 
-* Get through "echo" slide
+* Get through "self_executing_functions" slide
 * Homework:
     * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+    * Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
     * Finish up and send `echo()` exercise
     * Write [jQuery plugin](http://docs.jquery.com/Plugins/Authoring) that makes an element act like a `<blink>` tag
 
@@ -55,7 +56,6 @@ Please email assignments to the instructor by the start of the next class.  Send
 ### Class 2
 
 * Homework:
-    * Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
     * Start on [Text Twist project](#project)
 
 ### Class 3
