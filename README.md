@@ -7,6 +7,7 @@
 * **Schedule:** Saturdays, July 13th through Aug 17th 2013 (except 8/10), 10am-1pm (5 sessions)
 * **Instructor:** Aidan Feldman, alf9 [at] nyu [dot] edu
 * **Office Hours:** Sundays during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://nyc.hackerhours.org/events/calendar/) for schedule), or by appointment
+* [**Email List**](https://groups.google.com/a/nyu.edu/forum/#!forum/adv-js-summer-2013-group)
 
 ## Course Description
 
