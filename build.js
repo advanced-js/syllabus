@@ -49,15 +49,12 @@ var files = [
 ];
 
 var slides = files.map(function(file){
-  // remove from list of allFiles
-  var i = allFiles.indexOf(file);
-  if (i > -1) allFiles.splice(i, 1);
-
   var code = fs.readFileSync(dir + file);
   return { file: file, code: code };
 });
 
-if (allFiles.length) console.warn('UNUSED FILES:\n' + allFiles.join('\n') + '\n');
+var unused = u.difference(allFiles, files);
+if (unused.length) console.warn('UNUSED FILES:\n' + unused.join('\n') + '\n');
 
 var output = template({ slides: slides });
 fs.writeFileSync('index.html', output);
