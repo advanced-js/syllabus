@@ -56,9 +56,8 @@ Please email assignments to the instructor by the start of the next class.  Send
 ### Class 2
 
 * Build Memory game, v1 ([example](http://www.zefrank.com/memory/))
-* Cover OOP, though "namespace" slide
+* Cover OOP, though "oop_inheritance" slide
 * Homework:
-    * Advance at least one "level" from where you left off in class in the `namespace()` exercise
     * Finish Memory and refactor to use 'classes' (v2)
 
 ### Class 3
