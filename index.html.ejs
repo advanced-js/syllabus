@@ -191,7 +191,7 @@ function error(msg){
 function log(){
   var msg = "";
   for ( var i = 0; i < arguments.length; i++ ) {
-    msg += " " + arguments[i];
+    msg += " " + JSON.stringify(arguments[i]);
   }
   jQuery("#results").append("<li class='LOG'><b>LOG</b> " + msg + "</li>");
 }
