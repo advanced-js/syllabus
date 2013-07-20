@@ -1,4 +1,5 @@
-var fs = require('fs');
+var fs = require('fs'),
+  u = require('./vendor/underscore');
 
 var template = fs.readFileSync('index.html.ejs');
 
@@ -58,6 +59,6 @@ var slides = files.map(function(file){
 
 if (allFiles.length) console.warn('UNUSED FILES:\n' + allFiles.join('\n') + '\n');
 
-var output = template.toString().replace(/<%=\s*examples\s*%>/, slides);
+var output = u.template(template.toString(), { examples: slides });
 fs.writeFileSync('index.html', output);
 console.log("wrote to index.html");
