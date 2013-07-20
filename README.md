@@ -55,30 +55,36 @@ Please email assignments to the instructor by the start of the next class.  Send
 
 ### Class 2
 
+* Build Memory game, v1 ([example](http://www.zefrank.com/memory/))
+* Cover OOP, though "namespace" slide
 * Homework:
-    * Start on [Text Twist project](#project)
+    * Advance at least one "level" from where you left off in class in the `namespace()` exercise
+    * Finish Memory and refactor to use 'classes' (v2)
 
 ### Class 3
 
+* finish slides
+* ??
 * Homework:
-    * Finish Memory game, v1. ([example](http://www.zefrank.com/memory/))
-    * Finish Text Twist, v1.
+    * [Text Twist project](#project)
 
 ### Class 4
 
-* Cover OOP, though "namespace" slide
+* Cover AJAX/JSONP ([files](https://github.com/afeld/advanced_js/tree/master/ajax))
 * Homework:
-    * Refactor Memory and Text Twist to use 'classes'.
-    * Advance at least one "level" from where you left off in class in the `namespace` exercise.
+    * Final polish on Text Twist
+    * build a mashup (see [list of API suggestions](https://gist.github.com/afeld/4952991))
 
 ### Class 5
 
-* Present projects
-* Cover AJAX/JSONP ([files](https://github.com/afeld/advanced_js/tree/master/ajax))
-* Cover handling parallel/serial async requests
-    * [async](https://github.com/caolan/async#control-flow-1) library
-    * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
-* AJAX exercise (see list of [good APIs for mashups](https://gist.github.com/afeld/4952991))
+* Present mashup projects
+* Possible topics (vote?):
+    * Backbone.js
+    * Node.js
+    * Multiple async
+        * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
+            * write from scratch? w/ testing etc.
+        * [async](https://github.com/caolan/async#control-flow-1) library
 
 ## Project
 
