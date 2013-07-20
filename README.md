@@ -128,6 +128,13 @@ Bonus points:
     * [Sinon.js fakeServer](http://sinonjs.org/docs/#fakeServer) may be helpful
 * fancy interactivity/animations
 
+## Pairing Tips
+
+* Three people is possible, but two works best
+* Agree on an editor and environment that you're both comfortable with
+* The person who's less experienced/comfortable should have more keyboard time
+* Switch who's "driving" regularly
+
 ## Resources
 
 ### Required Reading
