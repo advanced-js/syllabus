@@ -107,10 +107,9 @@ jQuery(document).ready(function(){
 		jQuery("h3").removeClass("large").html("Advanced JavaScript");
 		jQuery("#pre, #code").height(425).show();
 		
-		jQuery("dd:empty").prev("dt").each(function(i){
-			var dt = jQuery("dt").index(this);
-			jQuery("<a href='#" + (dt+1) + "'>" + (i+1) + ") " + this.innerHTML + "\n</a>").click(function(){
-				pos = dt;
+		jQuery("dt").each(function(i, dt){
+			jQuery("<a href='#" + (i+1) + "'>" + (i+1) + ") " + this.innerHTML + "\n</a>").click(function(){
+				pos = i;
 				loadSample();
 				return false;
 			}).appendTo("#pre");
@@ -213,8 +212,7 @@ var deepEqual = _.isEqual;
 <h3 class="">Advanced JavaScript</h3>
 <div id="area">
 <pre id="pre" class="javascript" style="height: 425px; ">
-  <a href="#1">1) Start</a>
-</a></pre>
+</pre>
 <form id="form">
 <div class="buttons" style="display: none; ">
 <input type="submit" value="Run" class="run" id="run">
@@ -229,15 +227,13 @@ var deepEqual = _.isEqual;
 </form>
 </div>
 <dl style="display: none; ">
-<dt>Start</dt>
-<dd></dd>
 
-<% slides.forEach(function(slide){ %>
-<dt><%= slide.file %></dt>
-<dd>
-	<pre><%= slide.code %></pre>
-</dd>
-<% }); %>
+	<% slides.forEach(function(slide){ %>
+		<dt><%= slide.file %></dt>
+		<dd>
+			<pre><%= slide.code %></pre>
+		</dd>
+	<% }); %>
 
 </dl>
 
