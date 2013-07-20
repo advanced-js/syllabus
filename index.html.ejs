@@ -231,7 +231,14 @@ var deepEqual = _.isEqual;
 <dl style="display: none; ">
 <dt>Start</dt>
 <dd></dd>
-<%= examples %>
+
+<% slides.forEach(function(slide){ %>
+<dt><%= slide.file %></dt>
+<dd>
+	<pre><%= slide.code %></pre>
+</dd>
+<% }); %>
+
 </dl>
 
 
