@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>AJAX example</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script>
+      // to run:
+      //   $ cd <this directory>
+      //   $ python -m SimpleHTTPServer
+      //   # open http://localhost:8000/ajax.html
+      $.get('https://api.foursquare.com/v2/venues/search?near=Chicago,IL&oauth_token=AGI5Y15IUCTE4QTQEA1ERUOI0I4DM0NYWZEAZBPGLMEBNPH5&v=20130727', function(data){
+        var venues = data.response.venues;
+        var venueName;
+        for (var i = 0; i < venues.length; i++){
+          venueName = venues[i].name;
+          $('ul').append('<li>' + venueName + '</li>');
+        }
+      });
+    </script>
+  </head>
+  <body>
+    Loading...
+    <ul>
+    </ul>
+  </body>
+</html>

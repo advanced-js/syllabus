@@ -30,6 +30,8 @@ We will dive into the nuances of JavaScript, how prototypal inheritance compares
 * Classical vs. prototypal inheritance
 * The event loop
 * AJAX and JSONP
+    * local
+    * remote (e.g. Foursquare)
 * Creating MVC-style models (a'la Backbone.js) from scratch
 * Test- and Pseudocode-Driven Development
 
