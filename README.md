@@ -67,21 +67,24 @@ Please email assignments to the instructor by the start of the next class.  Send
 * Finish slides
 * Cover AJAX/JSONP ([files](https://github.com/afeld/advanced_js/tree/master/ajax))
 * Homework:
-    * [Text Twist project](#text-twist)
+    * [Mashup v1](examples/mashup.md)
 
 ### Class 4
 
+* Mashup demos
+* Add tests to namespace
+    * QUnit recommended, but any framework ok
+* Getting Serious example
+    * Quick intro to Backbone.js
 * Cover JSONP
-    * example?
+    * example API?
 * Homework:
-    * Final polish on Text Twist
-    * [build a mashup](#mashup)
+    * Mashup v2
 
 ### Class 5
 
 * Present mashup projects
 * Possible topics (vote?):
-    * Backbone.js
     * Node.js
     * Multiple async
         * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
