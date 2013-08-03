@@ -64,14 +64,15 @@ Please email assignments to the instructor by the start of the next class.  Send
 
 ### Class 3
 
-* finish slides
-* ??
+* Finish slides
+* Cover AJAX/JSONP ([files](https://github.com/afeld/advanced_js/tree/master/ajax))
 * Homework:
     * [Text Twist project](#text-twist)
 
 ### Class 4
 
-* Cover AJAX/JSONP ([files](https://github.com/afeld/advanced_js/tree/master/ajax))
+* Cover JSONP
+    * example?
 * Homework:
     * Final polish on Text Twist
     * [build a mashup](#mashup)
@@ -89,45 +90,10 @@ Please email assignments to the instructor by the start of the next class.  Send
 
 ## Projects
 
-### Text Twist
+Possible projects:
 
-As homework, you are going to re-create the game Text Twist.  The original (http://zone.msn.com/en/texttwist/, or [gameplay video](http://www.youtube.com/watch?v=qEfor-WdWTk&t=0m13s)) is an old-school Flash app... we want to bring it into this decade and port to JavaScript.  Spend a bit of time playing it to get the feel (warning: addictive).  The requirements:
-
-* two sets of letters
-    * get a single set working first
-    * the dictionaries can be small - just enough to show that the game works
-    * should be trivial to add additional sets
-* which set is used for each game (random vs. strict ordering): coder’s choice
-* letters from set displayed in random order at the start of each game
-* game should be playable with keyboard only (you might use jQuery [keypress](http://api.jquery.com/keypress/)/[keydown](http://api.jquery.com/keydown/))
-* display a player’s progress within a game, either similar to the Yahoo implementation (empty boxes on the left), or in a different creative way
-* a countdown showing the time remaining (time limit up to you)
-* a way to reset the game when it ends
-* use at least one of the Contructor, Factory or Module patterns
-* commented, well-structured code
-
-Bonus points:
-
-* additional sets of letters
-* automated tests
-* "twist" functionality (reshuffling the letters mid-game)
-* animations (using JavaScript or CSS3)
-* variations or enhancements to the gameplay (please provide a written explanation of the expected behavior)
-
-You are welcome to publish on the web (think of your own name), but **please email files/folder/.zip of all necessary files to instructor (alf9 [at] nyu [dot] edu) by the start of the final session.**  You will also have the option to demo your game to the class.
-
-### Mashup
-
-This project is open-ended!  Build a site that uses data from at least one external API in an interesting way.  Start simple!  No server-side coding is required, but feel free to create a backend in whatever language if you like, if you need one.
-
-* [list of API suggestions](https://gist.github.com/afeld/4952991)
-* [inspiration?](http://www.programmableweb.com/mashups)
-
-Bonus points:
-
-* automated tests
-    * [Sinon.js fakeServer](http://sinonjs.org/docs/#fakeServer) may be helpful
-* fancy interactivity/animations
+* [Mashup](examples/mashup.md)
+* [Text Twist](examples/text_twist.md)
 
 ## Pairing Tips
 
