@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>AJAX example</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script>
+      // to run:
+      //   $ cd <this directory>
+      //   $ python -m SimpleHTTPServer
+      //   $ open http://localhost:8000/5-when.html
+      var ajax1 = $.get('example.json');
+      var ajax2 = $.get('example2.json');
+      var ajaxOps = $.when(ajax1, ajax2);
+
+      ajaxOps.then(function(){
+        alert('both fetched!');
+      });
+    </script>
+  </head>
+  <body>
+    Loading...
+  </body>
+</html>

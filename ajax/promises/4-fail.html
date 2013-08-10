@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>AJAX example</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script>
+      // to run:
+      //   $ cd <this directory>
+      //   $ python -m SimpleHTTPServer
+      //   $ open http://localhost:8000/4-fail.html
+      var promise = $.getJSON('exaasdfsample.json');
+      promise.then(
+        // success
+        function(data){
+          alert(data.message);
+        },
+        // fail
+        function(){
+          alert('fail!');
+        }
+      );
+    </script>
+  </head>
+  <body>
+    Loading...
+  </body>
+</html>
