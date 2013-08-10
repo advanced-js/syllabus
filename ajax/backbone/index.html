@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>AJAX example</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script src="underscore.js"></script>
+    <script src="backbone.js"></script>
+    <script src="models/venue.js"></script>
+    <script src="collections/venues.js"></script>
+    <script src="views/venue_item.js"></script>
+    <script src="views/venue_list.js"></script>
+    <script>
+      var venues = new Venues();
+      venues.fetch().then(function(){
+        var venueList = new VenueList({
+          collection: venues
+        });
+        venueList.render();
+        $('body').html(venueList.$el);
+      });
+    </script>
+  </head>
+  <body>
+    Loading...
+    <ul>
+    </ul>
+  </body>
+</html>
