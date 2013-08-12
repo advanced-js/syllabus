@@ -67,7 +67,7 @@ Please email assignments to the instructor by the start of the next class.  Send
 * Finish slides
 * Cover AJAX/JSONP ([files](https://github.com/afeld/advanced_js/tree/master/ajax))
 * Homework:
-    * [Mashup v1](examples/mashup.md)
+    * [Mashup v1](projects/mashup.md)
 
 ### Class 4
 
@@ -95,7 +95,7 @@ Please email assignments to the instructor by the start of the next class.  Send
 
 Possible projects:
 
-* [Mashup](examples/mashup.md)
+* [Mashup](projects/mashup.md)
 * [Text Twist](examples/text_twist.md)
 
 ## Pairing Tips
