@@ -67,29 +67,39 @@ Please email assignments to the instructor by the start of the next class.  Send
 * Finish slides
 * Cover AJAX/JSONP ([files](https://github.com/afeld/advanced_js/tree/master/ajax))
 * Homework:
-    * [Mashup v1](projects/mashup.md)
+    * [Mashup](projects/mashup.md) v1
 
 ### Class 4
 
 * Mashup demos
 * Add tests to namespace
-    * QUnit recommended, but any framework ok
+    * Build up a test framework from scratch
+    * Show QUnit
 * Getting Serious example
     * Quick intro to Backbone.js
-* Cover JSONP
-    * example API?
+* Multiple async
+    * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
+        * write from scratch? w/ testing etc.
+    * Possibly show [async](https://github.com/caolan/async#control-flow-1) library?
 * Homework:
-    * Mashup v2
+    * [Mashup](projects/mashup.md) v2
 
 ### Class 5
 
-* Present mashup projects
+* Present and code review Mashup projects
+* JSONP
+    * example API?
 * Possible topics (vote?):
     * Node.js
-    * Multiple async
-        * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
-            * write from scratch? w/ testing etc.
-        * [async](https://github.com/caolan/async#control-flow-1) library
+        * Server "Hello World" (from [Node.js homepage](http://nodejs.org/))
+            * [HTTP module docs](http://nodejs.org/api/http.html)
+        * HTTP requests
+            * Status codes
+            * Headers
+        * CommonJS?
+    * Regular Expressions
+        * Convert live input, e.g. link Twitter handles from a textarea
+    * Command-line and Git
 
 ## Projects
 
