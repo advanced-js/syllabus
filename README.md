@@ -94,7 +94,8 @@ Please email assignments to the instructor by the start of the next class.  Send
         * Server "Hello World" (from [Node.js homepage](http://nodejs.org/))
             * [HTTP module docs](http://nodejs.org/api/http.html)
         * HTTP requests
-            * Status codes
+            * Network tab in Dev Tools
+            * [Status codes](http://pretty-rfc.herokuapp.com/RFC2616#status.codes)
             * Headers
         * CommonJS?
     * Regular Expressions
