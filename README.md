@@ -34,6 +34,8 @@ We will dive into the nuances of JavaScript, how prototypal inheritance compares
 
 Topics will be demonstrated through live-code examples/slides, available at [afeld.github.io/advanced_js](http://afeld.github.io/advanced_js/).  Additional exercises will completed in-class.
 
+See [this interview](http://masterstreet.wordpress.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
+
 ## Course Outline
 
 Please email assignments to the instructor by the start of the next class.  Send your assignments in an online sandbox (see [tools](https://github.com/afeld/advanced_js#tools)), or as a self-contained, runnable ZIP.  All HTML files should pass the [W3C Markup Validation](http://validator.w3.org/), and JS should pass [JSHint](http://jshint.com/).
