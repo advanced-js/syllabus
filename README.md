@@ -38,7 +38,7 @@ See [this interview](http://masterstreet.wordpress.com/2013/09/05/interview-with
 
 ## Course Outline
 
-Please email assignments to the instructor by the start of the next class.  Send your assignments in an online sandbox (see [tools](https://github.com/afeld/advanced_js#tools)), or as a self-contained, runnable ZIP.  All HTML files should pass the [W3C Markup Validation](http://validator.w3.org/), and JS should pass [JSHint](http://jshint.com/).
+Please email assignments to the instructor by the start of the next class.  Send your assignments in an online sandbox (see [tools](#tools)), or as a self-contained, runnable ZIP.  All HTML files should pass the [W3C Markup Validation](http://validator.w3.org/), and JS should pass [JSHint](http://jshint.com/).
 
 ### Class 1
 
@@ -64,7 +64,7 @@ Please email assignments to the instructor by the start of the next class.  Send
 ### Class 3
 
 * Finish slides
-* Cover AJAX/JSONP ([files](https://github.com/afeld/advanced_js/tree/master/ajax))
+* Cover AJAX/JSONP ([files](demos/ajax))
 * Homework:
     * [Mashup](projects/mashup.md) v1
 
@@ -86,7 +86,7 @@ Please email assignments to the instructor by the start of the next class.  Send
 ### Class 5
 
 * Present and code review Mashup projects
-* JSONP
+* [JSONP](demos/ajax/jsonp.html)
     * example API?
 * Possible topics (vote?):
     * Node.js
@@ -97,7 +97,7 @@ Please email assignments to the instructor by the start of the next class.  Send
             * [Status codes](http://pretty-rfc.herokuapp.com/RFC2616#status.codes)
             * Headers
         * CommonJS?
-    * Regular Expressions
+    * [Regular Expressions](demos/regex.html)
         * Convert live input, e.g. link Twitter handles from a textarea
     * Command-line and Git
 

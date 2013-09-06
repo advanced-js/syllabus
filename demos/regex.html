@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <title>RegExp example</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+    <script>
+      $(function(){
+
+        $('#user-input').on('input', function(){
+          var text = $('#user-input').val();
+          var twitterMatcher = /@(\w+)/g;
+          var newText = text.replace(twitterMatcher, '<a href="http://twitter.com/$1">@$1</a>');
+          $('#output').html(newText);
+        });
+
+      });
+    </script>
+  </head>
+  <body>
+    <textarea id="user-input"></textarea>
+    <div id="output"></div>
+  </body>
+</html>
