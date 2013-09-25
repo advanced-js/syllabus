@@ -3,8 +3,11 @@
 ***See this README prettier [here](http://documentup.com/afeld/advanced_js).***
 
 * **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
-* **Instructor:** Aidan Feldman, alf9 [at] nyu [dot] edu
-* **Office Hours:** Sundays during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://nyc.hackerhours.org/events/calendar/) for schedule), or by appointment
+* **Instructor:** Aidan Feldman, alf9@nyu.edu
+* **Need help?**
+   * [Issues](https://github.com/afeld/advanced_js/issues) (please don't post solutions)
+   * Office Hours on Sundays during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
+   * [Email](alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
 
