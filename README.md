@@ -15,12 +15,12 @@ Learn best practices in JavaScript in this intensive, five-session course. Topic
 
 ## Prerequisites
 
-The following, or equivalent:
-
-* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](https://github.com/afeld/advanced_js/blob/master/vendor/INFO1-CE9755%20JavaScript.pdf?raw=true))
+* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](https://github.com/afeld/advanced_js/blob/master/vendor/INFO1-CE9755%20JavaScript.pdf?raw=true)) or equivalent
 * Understanding of variables, data types, control flow, and basic function usage in JavaScript - see [Beginner Materials](#beginner-materials)
 * Strong intermediate knowledge of HTML, and at least basics of CSS
 * Basic jQuery knowledge (DOM interaction) is a plus
+
+These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts.
 
 ## Course Overview
 
