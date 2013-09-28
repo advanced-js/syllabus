@@ -45,10 +45,11 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Submission
 
-Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by the start of the following class.  Sumbissions can be in the format:
+Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by the start of the following class.  Sumbissions can be in one of the following formats:
 
-* Hosted on your own site, or
-* An online sandbox (see [tools](#tools)), or
+* A link to the project hosted live
+    * On your own site
+    * An online sandbox (see [tools](#tools))
 * A self-contained, runnable ZIP
 
 ### Requirements
