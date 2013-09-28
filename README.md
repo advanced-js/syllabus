@@ -58,7 +58,9 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 * Must apply "good programming style" learned in class
     * Functions should be "short" (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers))
     * For projects, use Object-Oriented Programming
-* Bonus points for automated tests
+* Bonus points for:
+    * Automated tests
+    * Creativity (as long as requirements are fulfilled)
 
 ## Course Outline
 
@@ -69,12 +71,14 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
     * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
     * Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
     * Finish up and send `echo()` exercise
-    * Write [jQuery plugin](http://docs.jquery.com/Plugins/Authoring) that makes an element act like a `<blink>` tag
+    * Write [jQuery plugin](http://docs.jquery.com/Plugins/Authoring) that makes an element act like a `<blink>` tag.  Something like this (should work for any arbitrary speed):
 
         ```javascript
         // show/hide every 500ms
         jQuery('.myDiv').blink(500);
         ```
+
+        ![blink demo](projects/blink.gif)
 
 ### Class 2
 
