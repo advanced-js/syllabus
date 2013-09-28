@@ -69,7 +69,10 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 
 * Introduction
 * Student checklist:
-    * Follow this repo
+    * "Watch" this repo (need a [GitHub account](https://github.com))
+
+        ![watch](assets/watch.png)
+
     * Access [NYU Classes](https://newclasses.nyu.edu) page
 * Get through "self_executing_functions" slide
 * Homework:
@@ -83,7 +86,7 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
         jQuery('.myDiv').blink(1000);
         ```
 
-        ![blink demo](projects/blink.gif)
+        ![blink demo](assets/blink.gif)
 
 ### Class 2
 
