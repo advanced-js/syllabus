@@ -74,8 +74,8 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
     * Write [jQuery plugin](http://docs.jquery.com/Plugins/Authoring) that makes an element act like a `<blink>` tag.  Something like this (should work for any arbitrary speed):
 
         ```javascript
-        // show/hide every 500ms
-        jQuery('.myDiv').blink(500);
+        // show/hide every 1000ms
+        jQuery('.myDiv').blink(1000);
         ```
 
         ![blink demo](projects/blink.gif)
