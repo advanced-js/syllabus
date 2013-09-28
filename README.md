@@ -39,9 +39,17 @@ Topics will be demonstrated through live-code examples/slides, available at [afe
 
 See [this interview](http://masterstreet.wordpress.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
 
-## Course Outline
+## Homework/Project Requirements
 
-Please email assignments to the instructor by the start of the next class.  Send your assignments in an online sandbox (see [tools](#tools)), or as a self-contained, runnable ZIP.  All HTML files should pass the [W3C Markup Validation](http://validator.w3.org/), and JS should pass [JSHint](http://jshint.com/).
+Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by the start of the following class.  Sumbissions can be in the format:
+
+* Hosted on your own site, or
+* An online sandbox (see [tools](#tools)), or
+* A self-contained, runnable ZIP
+
+All HTML files should pass the [W3C Markup Validation](http://validator.w3.org/), and JS should pass [JSHint](http://jshint.com/).
+
+## Course Outline
 
 ### Class 1
 
