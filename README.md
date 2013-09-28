@@ -39,7 +39,11 @@ Topics will be demonstrated through live-code examples/slides, available at [afe
 
 See [this interview](http://masterstreet.wordpress.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
 
-## Homework/Project Requirements
+## Homework/Projects
+
+All assignments are listed within the [Course Outline](#course-outline).
+
+### Submission
 
 Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by the start of the following class.  Sumbissions can be in the format:
 
@@ -47,7 +51,14 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 * An online sandbox (see [tools](#tools)), or
 * A self-contained, runnable ZIP
 
-All HTML files should pass the [W3C Markup Validation](http://validator.w3.org/), and JS should pass [JSHint](http://jshint.com/).
+### Requirements
+
+* All HTML files should pass [W3C Markup Validation](http://validator.w3.org/)
+* All written JS should pass [JSHint](http://jshint.com/)
+* Must apply "good programming style" learned in class
+    * Functions should be "short" (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers))
+    * For projects, use Object-Oriented Programming
+* Bonus points for automated tests
 
 ## Course Outline
 
