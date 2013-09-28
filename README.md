@@ -78,7 +78,7 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 * Homework:
     * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
     * Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-    * Finish up and send `echo()` exercise
+    * Finish up and send `echo()` and `countdown()` exercises
     * Write [jQuery plugin](http://docs.jquery.com/Plugins/Authoring) that makes an element act like a `<blink>` tag.  Something like this (should work for any arbitrary speed):
 
         ```javascript
