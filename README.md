@@ -74,6 +74,8 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
         ![watch](assets/watch.png)
 
     * Access [NYU Classes](https://newclasses.nyu.edu) page
+* Explain how slides work
+    * Look at [helpers.js](assets/helpers.js)
 * Get through "self_executing_functions" slide
 * Homework:
     * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
