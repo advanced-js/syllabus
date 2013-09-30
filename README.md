@@ -173,6 +173,7 @@ Possible projects:
 * [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks [michaelBenin](https://github.com/michaelBenin))
 * [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
 * [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
+* [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted)
 
 ### Beginner Materials
 
