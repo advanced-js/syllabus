@@ -92,10 +92,10 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 
 ### Class 2
 
-* Build Memory game, v1 ([example](http://www.zefrank.com/memory/))
+* Pair program to build [Memory v1](projects/memory.md) (see [pairing tips](#pairing-tips))
 * Cover OOP, though "oop_inheritance" slide
 * Homework:
-    * Finish Memory and refactor to use 'classes' (v2)
+    * [Memory v2](projects/memory.md#v2) (individual)
 
 ### Class 3
 
@@ -150,6 +150,8 @@ Possible projects:
 * Agree on an editor and environment that you're both comfortable with
 * The person who's less experienced/comfortable should have more keyboard time
 * Switch who's "driving" regularly
+* Make sure to save the code and send it to both people
+* [JS Bin](http://jsbin.com/) supports live collaborating
 
 ## Resources
 
