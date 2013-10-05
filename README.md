@@ -139,10 +139,7 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 
 ## Projects
 
-Possible projects:
-
-* [Mashup](projects/mashup.md)
-* [Text Twist](examples/text_twist.md)
+Possible projects are listed [here](projects).
 
 ## Pairing Tips
 
