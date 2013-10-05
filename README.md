@@ -1,4 +1,4 @@
-# Advanced JavaScript
+# Advanced JavaScript [![Build Status](https://travis-ci.org/afeld/advanced_js.png?branch=master)](https://travis-ci.org/afeld/advanced_js)
 
 ***See this README prettier [here](http://documentup.com/afeld/advanced_js).***
 

@@ -80,3 +80,8 @@ process.on('exit', function(){
 
   console.log('\nPassed: ' + numPasses + '  Failed: ' + numFailures);
 });
+
+
+console.log('Building slides...');
+require('./build');
+console.log('SUCCESS');
