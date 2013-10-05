@@ -10,6 +10,7 @@ http://www.zefrank.com/memory/
 * *Start small*
     * 2x2 grid is fine
     * Hard-code as a `<table>`
+    * Use letters or numbers as the "values"
 
 ## V2
 
@@ -17,5 +18,9 @@ Refactor to use OOP (Views, maybe Models, etc).
 
 ## Bonus points
 
+* "Reset" button
+* Randomized board
+* Configurable board size
+* Score keeping (you can decide what this means)
 * Automated tests
 * Fancy interactivity/animations
