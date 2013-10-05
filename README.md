@@ -94,6 +94,11 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 
 * Pair program to build [Memory v1](projects/memory.md) (see [pairing tips](#pairing-tips))
 * Cover OOP, though "oop_inheritance" slide
+* Cover automated testing
+    * Examples in QUnit
+        * [Simple](http://jsbin.com/AqENEjo/1/edit?html,js,output)
+        * [Classes](http://jsbin.com/edoRoGU/1/edit?js,output)
+    * [Other frameworks](#test-frameworks)
 * Homework:
     * [Memory v2](projects/memory.md#v2) (individual)
 
@@ -193,13 +198,23 @@ This class assumes you are confident with this material, but in case you need a 
 * code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
 * debugging: [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/docs/overview) ([tutorial](http://code.google.com/chrome/extensions/tut_debugging.html)) / [Firebug](http://getfirebug.com/)
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
-* HTML/CSS/JS sandbox:
-  * [jsFiddle](http://jsfiddle.net/)
-  * [JS Bin](http://jsbin.com/)
-  * [bl.ocks.org](http://bl.ocks.org/)
-  * [CodePen](http://codepen.io/pen/)
-  * [rawgithub.com](http://rawgithub.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
+
+#### HTML/CSS/JS sandbox
+
+* [jsFiddle](http://jsfiddle.net/)
+* [JS Bin](http://jsbin.com/)
+* [bl.ocks.org](http://bl.ocks.org/)
+* [CodePen](http://codepen.io/pen/)
+* [rawgithub.com](http://rawgithub.com/)
+
+#### Test Frameworks
+
+Recommended:
+
+* [QUnit](http://qunitjs.com/) (the simplest one)
+* [Jasmine](http://pivotal.github.io/jasmine/)
+* [Mocha](http://visionmedia.github.io/mocha/)
 
 ### Reference
 
