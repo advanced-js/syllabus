@@ -7,10 +7,10 @@ http://www.zefrank.com/memory/
 ## V1
 
 * Use any libraries you like
-* *Start small*
-    * 2x2 grid is fine
+* *Start small*, e.g.
+    * 2x2 grid
     * Hard-code as a `<table>`
-    * Use letters or numbers as the "values"
+    * Use letters, numbers or colors as the "values"
 
 ## V2
 
