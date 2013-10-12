@@ -230,8 +230,7 @@ Recommended:
 ## Grading
 
 * Class Participation – 30%
-* Homework – 40%
-* Quiz – 30%
+* Homework – 70%
 
 ## Statements on Plagarism
 
