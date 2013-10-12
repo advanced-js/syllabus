@@ -20,6 +20,9 @@ namespace('foo.lib.external');
 //   foo.lib = {};
 //   foo.lib.external = {};
 
+// Build it using TDD!
+// https://github.com/afeld/advanced_js#test-frameworks
+
 // Level 1: Make it work for namespaces
 //   of a certain length, e.g.
 //   'app.models' and 'foo.lib'.
