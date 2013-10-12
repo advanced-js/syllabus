@@ -231,6 +231,8 @@ Recommended:
 
 * Class Participation – 30%
 * Homework – 70%
+* Extra credit:
+    * Fix [open Issues](https://github.com/afeld/advanced_js/issues) on this repo (points on a sliding scale)
 
 ## Statements on Plagarism
 
