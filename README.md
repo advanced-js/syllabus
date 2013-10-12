@@ -104,7 +104,9 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 
 ### Class 3
 
+* Code review Memory
 * Finish slides
+* Developer Tools walkthrough
 * Cover AJAX/JSONP ([files](demos/ajax))
 * Homework:
     * [Mashup](projects/mashup.md) v1
