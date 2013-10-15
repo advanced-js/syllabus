@@ -7,11 +7,15 @@ function namespace(path){
 }
 
 namespace('app.models');
-// app.models.User = function(){};
+// creates `app.models`.  We can then add a Class to it:
+//
+//   app.models.User = function(){};
 
 namespace('app.views');
-// app.views.User = function(){};
-// assert(app.models.User !== app.views.User, "different namespaces don't override each other");
+// add a class to it:
+//
+//   app.views.User = function(){};
+//   assert(app.models.User !== app.views.User, "different namespaces don't override each other");
 
 namespace('foo.lib.external');
 // is synonymous to:
