@@ -60,7 +60,7 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
     * Functions should be "short" (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers))
     * For projects, use Object-Oriented Programming
 * Bonus points for:
-    * Automated tests
+    * [Automated tests](#test-frameworks)
     * Creativity (as long as requirements are fulfilled)
 
 ## Course Outline
@@ -218,6 +218,11 @@ This class assumes you are confident with this material, but in case you need a 
 Recommended:
 
 * [QUnit](http://qunitjs.com/) (the simplest one)
+    * [boilerplate](http://jsbin.com/otugUwI/1/edit?html,js,output)
+        * If you prefer to work locally, choose "Download" from the menu.
+
+            ![jsBin download](assets/jsbin_download.png)
+
 * [Jasmine](http://pivotal.github.io/jasmine/)
 * [Mocha](http://visionmedia.github.io/mocha/)
 
