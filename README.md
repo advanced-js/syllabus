@@ -125,6 +125,7 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
     * Show QUnit
 * Getting Serious example
     * Quick intro to Backbone.js
+        * [Boilerplate](http://jsbin.com/IGivato/1/edit?html,js,output)
         * TDD?
 * Multiple async
     * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
