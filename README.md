@@ -109,7 +109,11 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 * Code review Memory
 * Finish slides
 * Developer Tools walkthrough
+    * Elements (HTML)
+    * Console (JS)
+    * Scripts (JS)
 * Cover AJAX/JSONP ([files](demos/ajax))
+    * Network tab in Developer Tools
 * Homework:
     * [Mashup](projects/mashup.md) v1
 
@@ -121,9 +125,9 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
     * Show QUnit
 * Getting Serious example
     * Quick intro to Backbone.js
+        * TDD?
 * Multiple async
     * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
-        * write from scratch? w/ testing etc.
     * Possibly show [async](https://github.com/caolan/async#control-flow-1) library?
 * Homework:
     * [Mashup](projects/mashup.md) v2
@@ -131,14 +135,11 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 ### Class 5
 
 * Present and code review Mashup projects
-* [JSONP](demos/ajax/jsonp.html)
-    * example API?
 * Possible topics (vote?):
     * Node.js
         * Server "Hello World" (from [Node.js homepage](http://nodejs.org/))
             * [HTTP module docs](http://nodejs.org/api/http.html)
         * HTTP requests
-            * Network tab in Dev Tools
             * [Status codes](http://pretty-rfc.herokuapp.com/RFC2616#status.codes)
             * Headers
         * CommonJS?
