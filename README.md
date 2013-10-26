@@ -164,6 +164,10 @@ Possible projects are listed [here](projects).
 
 ## Resources
 
+### More Examples
+
+* [map/reduce](http://jsbin.com/ojapAsUR/2/edit?js) (in [Underscore](http://underscorejs.org/#map))
+
 ### Required Reading
 
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
