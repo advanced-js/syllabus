@@ -126,6 +126,7 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 * Getting Serious example
     * Quick intro to Backbone.js
         * [Boilerplate](http://jsbin.com/IGivato/1/edit?html,js,output)
+        * Click the Box [example app](http://jsbin.com/IGivato/5/edit?css,js,output)
         * TDD?
 * Multiple async
     * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
