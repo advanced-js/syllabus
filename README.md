@@ -181,6 +181,7 @@ Possible projects are listed [here](projects).
 * [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
 * [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * https://twitter.com/necolas/status/291978260433219584
+* http://afeld.me/nerdery/1742468
 
 ### Recommended Reading
 
