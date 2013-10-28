@@ -54,10 +54,13 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 
 ### Requirements
 
+These apply to real life, as well.
+
 * All HTML files should pass [W3C Markup Validation](http://validator.w3.org/)
 * All written JS should pass [JSHint](http://jshint.com/)
 * Must apply "good programming style" learned in class
     * Functions should be "short" (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers))
+    * Optimize for readability
     * For projects, use Object-Oriented Programming
 * Bonus points for:
     * [Automated tests](#test-frameworks)
