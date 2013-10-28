@@ -50,7 +50,7 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 * A link to the project hosted live
     * On your own site
     * An online sandbox (see [tools](#tools))
-* A self-contained, runnable ZIP
+* A self-contained, runnable ZIP (HTML included)
 
 ### Requirements
 
