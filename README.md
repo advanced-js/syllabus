@@ -94,6 +94,8 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 
 ### Class 2
 
+* Look at various approaches for `countdown()`
+    * Show recursive solution
 * Pair program to build [Memory v1](projects/memory.md) (see [pairing tips](#pairing-tips))
 * Cover OOP, though "oop_inheritance" slide
     * [Encapsulation example](http://jsbin.com/eGiteJa/2/edit?css,js,output)

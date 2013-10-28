@@ -24,5 +24,6 @@ countdown(10);
 
 
 // documentation:
+// * https://developer.mozilla.org/en-US/docs/DOM/window.setTimeout
 // * https://developer.mozilla.org/en-US/docs/DOM/window.setInterval
 // * https://developer.mozilla.org/en-US/docs/Web/API/window.clearInterval
