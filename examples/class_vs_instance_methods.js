@@ -9,19 +9,19 @@ Person.prototype.fullName = function(){
 };
 
 // 'class' method
-Person.newKitten = function(first, parent1, parent2){
+Person.newKid = function(first, parent1, parent2){
   var last = parent1.last + '-' + parent2.last;
   return new Person(first, last);
 };
 
 
-var alex = new Person('Alex', 'Bisker');
-var aidan = new Person('Aidan', 'Feldman');
+var jane = new Person('Jane', 'Gordon');
+var dennis = new Person('Dennis', 'Levitt');
 
-assert(alex.newKitten === undefined, "class method isn't available on an instance");
+assert(jane.newKid === undefined, "class method isn't available on an instance");
 assert(Person.fullName === undefined, "instance method isn't available on the class");
 
-var blondie = Person.newKitten('Blondie', alex, aidan);
+var joseph = Person.newKid('Joseph', jane, dennis);
 
-assert(blondie instanceof Person, "if you *treat* it like a child...");
-assert(blondie.fullName() === 'Blondie Bisker-Feldman', "assigns the name correctly");
+assert(joseph instanceof Person, "the factory method returns a new instance");
+assert(joseph.fullName() === 'Joseph Gordon-Levitt', "assigns the name correctly");
