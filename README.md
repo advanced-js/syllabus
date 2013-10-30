@@ -47,9 +47,11 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by the start of the following class.  Sumbissions can be in one of the following formats:
 
-* A link to the project hosted live
+* A link to the code hosted live (preferred), e.g.
     * On your own site
+    * GitHub Pages ([guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/))
     * An online sandbox (see [tools](#tools))
+        * These are great for small bits of code like the in-class exercises, but not things that are more substantial, like projects.  Better to have files split up and organized in directories for those, which sandbox sites (to my knowledge) don't offer.
 * A self-contained, runnable ZIP (HTML included)
 
 ### Requirements
