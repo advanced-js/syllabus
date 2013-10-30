@@ -1,4 +1,4 @@
-// EXERCISE: print out each of the arguments given
+// EXERCISE: print out each argument on a new line
 
 function echo(/* args */){
   // ...
