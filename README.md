@@ -224,8 +224,8 @@ This class assumes you are confident with this material, but in case you need a 
 
 #### HTML/CSS/JS sandbox
 
+* [JS Bin](http://jsbin.com/) (recommended)
 * [jsFiddle](http://jsfiddle.net/)
-* [JS Bin](http://jsbin.com/)
 * [bl.ocks.org](http://bl.ocks.org/)
 * [CodePen](http://codepen.io/pen/)
 * [rawgithub.com](http://rawgithub.com/)
