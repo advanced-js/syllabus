@@ -47,7 +47,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Submission
 
-Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by the start of the following class.  Sumbissions can be in one of the following formats:
+Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by the start of the following class.  Submissions can be in one of the following formats:
 
 * A link to the code hosted live (preferred), e.g.
     * On your own site
@@ -55,6 +55,8 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
     * An online sandbox (see [tools](#tools))
         * These are great for small bits of code like the in-class exercises, but not things that are more substantial, like projects.  Better to have files split up and organized in directories for those, which sandbox sites (to my knowledge) don't offer.
 * A self-contained, runnable ZIP (HTML included)
+
+***Do not just copy-and-paste the code into the submission form.***
 
 ### Requirements
 
