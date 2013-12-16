@@ -51,7 +51,7 @@ Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by th
 
 * A link to the code hosted live (preferred), e.g.
     * On your own site
-    * GitHub Pages ([guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/))
+    * [GitHub Pages](http://pages.github.com/) ([add'l guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/))
     * An online sandbox (see [tools](#tools))
         * These are great for small bits of code like the in-class exercises, but not things that are more substantial, like projects.  Better to have files split up and organized in directories for those, which sandbox sites (to my knowledge) don't offer.
 * A self-contained, runnable ZIP (HTML included)
