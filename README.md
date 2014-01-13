@@ -229,9 +229,11 @@ This class assumes you are confident with this material, but in case you need a 
 #### HTML/CSS/JS sandbox
 
 * [JS Bin](http://jsbin.com/) (recommended)
-* [jsFiddle](http://jsfiddle.net/)
 * [bl.ocks.org](http://bl.ocks.org/)
+* [Cloud9](https://c9.io/)
 * [CodePen](http://codepen.io/pen/)
+* [jsFiddle](http://jsfiddle.net/)
+* [Plunker](http://plnkr.co/)
 * [rawgithub.com](http://rawgithub.com/)
 
 #### Test Frameworks
