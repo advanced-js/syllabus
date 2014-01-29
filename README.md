@@ -144,7 +144,7 @@ These apply to real life, as well.
 * Multiple async
     * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
     * Possibly show [async](https://github.com/caolan/async#control-flow-1) library?
-* Homework:
+* Homework:re
     * [Mashup](projects/mashup.md) v2
 
 ### Class 5
@@ -214,6 +214,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 ### Other Lists
 
+* [JS: The Right Way](http://www.jstherightway.org/) (an overview of the JS landscape)
 * [Code School](http://www.codeschool.com/paths/javascript)
 * Thoughtbot's [Javascript Trail Map](https://learn.thoughtbot.com/javascript)
 * [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
