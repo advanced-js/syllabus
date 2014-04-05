@@ -1,4 +1,4 @@
-# Advanced JavaScript [![Build Status](https://travis-ci.org/advanced-js/syllabus.png?branch=master)](https://travis-ci.org/advanced-js/syllabus)
+# Advanced JavaScript syllabus
 
 ***See this README prettier [here](http://documentup.com/advanced-js/syllabus).***
 
@@ -37,7 +37,7 @@ We will dive into the nuances of JavaScript, how prototypal inheritance compares
 * Creating MVC-style models (a'la Backbone.js) from scratch
 * Test- and Pseudocode-Driven Development
 
-Topics will be demonstrated through live-code examples/slides, available at [advanced-js.github.io/syllabus](http://advanced-js.github.io/syllabus/).  Additional exercises will completed in-class.
+Topics will be demonstrated through live-code examples/slides, available at [advanced-js.github.io/deck](http://advanced-js.github.io/deck/).  Additional exercises will completed in-class.
 
 See [this interview](http://masterstreet.wordpress.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
 
