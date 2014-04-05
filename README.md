@@ -83,6 +83,7 @@ These apply to real life, as well.
         ![watch](assets/watch.png)
 
     * Access [NYU Classes](https://newclasses.nyu.edu) page
+        * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
 * Explain how slides work
     * Look at [helpers.js](https://github.com/advanced-js/deck/blob/gh-pages/assets/helpers.js)
 * Get through "self_executing_functions" slide
