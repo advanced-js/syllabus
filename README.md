@@ -84,7 +84,7 @@ These apply to real life, as well.
 
     * Access [NYU Classes](https://newclasses.nyu.edu) page
 * Explain how slides work
-    * Look at [helpers.js](assets/helpers.js)
+    * Look at [helpers.js](https://github.com/advanced-js/deck/blob/gh-pages/assets/helpers.js)
 * Get through "self_executing_functions" slide
 * Homework:
     * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
