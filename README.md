@@ -5,7 +5,7 @@
 * **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
 * **Instructor:** Aidan Feldman, alf9@nyu.edu
 * **Need help?**
-   * [Issues](https://github.com/advanced-js/syllabus/issues) (please don't post solutions)
+   * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
    * Office Hours on Sundays during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
    * [Email](alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
 
@@ -45,18 +45,15 @@ See [this interview](http://masterstreet.wordpress.com/2013/09/05/interview-with
 
 All assignments are listed within the [Course Outline](#course-outline).
 
-### Submission
+### Workflow
 
-Submit homework and projects via [NYU Classes](https://newclasses.nyu.edu) by the start of the following class.  Submissions can be in one of the following formats:
+1. Fork the repository for the exercise/assignment (found under [github.com/advanced-js](https://github.com/advanced-js))
+1. Clone the repository to your computer
+1. Modify the files to complete your solution
+1. Make sure all of your code is committed
+1. Submit a link to your pull request in the assignment in [NYU Classes](https://newclasses.nyu.edu) by the due time (generally the start of the following class)
 
-* A link to the code hosted live (preferred), e.g.
-    * On your own site
-    * [GitHub Pages](http://pages.github.com/) ([add'l guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/))
-    * An online sandbox (see [tools](#tools))
-        * These are great for small bits of code like the in-class exercises, but not things that are more substantial, like projects.  Better to have files split up and organized in directories for those, which sandbox sites (to my knowledge) don't offer.
-* A self-contained, runnable ZIP (HTML included)
-
-***Do not just copy-and-paste the code into the submission form.***
+Feedback will be given in the pull request, and you can continue to push fixes and improvements until the close date (listed in Classes).  Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
 
 ### Requirements
 
@@ -77,8 +74,9 @@ These apply to real life, as well.
 ### Class 1
 
 * Introduction
+    * [Organization](https://github.com/advanced-js) walkthrough
 * Student checklist:
-    * "Watch" this repo (need a [GitHub account](https://github.com))
+    * "Watch" this repository (need a [GitHub account](https://github.com))
 
         ![watch](assets/watch.png)
 
@@ -257,12 +255,21 @@ Recommended:
 * [w3schools](http://www.w3schools.com/jsref/default.asp)
 * [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
 
+### GitHub
+
+* Git and GitHub
+    * [Official GitHub Help](https://help.github.com/)
+    * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+* GitHub Pages
+    * [Official site](http://pages.github.com/)
+    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+
 ## Grading
 
 * Class Participation – 30%
 * Homework – 70%
 
-## Statements on Plagarism
+## Statements on Plagiarism
 
 ### SCPS
 
@@ -270,4 +277,6 @@ Recommended:
 
 ### Instructor
 
-Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  Please respect the terms of use and/or license, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
+Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  This class is structured such that all solutions are public.  You are encouraged to learn from the work of your peers.  I won't hunt down people who are simply copying-and-pasting solutions, because without challenging themselves, they  are simply wasting their time and money taking this class.
+
+Please respect the terms of use and/or license of any code you find, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
