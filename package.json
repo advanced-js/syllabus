@@ -2,12 +2,12 @@
   "name": "advanced_js",
   "version": "0.0.0",
   "description": "syllabus and materials for the Advanced JavaScript class at NYU",
-  "main": "build.js",
+  "main": "scripts/build.js",
   "directories": {
     "example": "examples"
   },
   "scripts": {
-    "test": "node run_tests.js"
+    "test": "node scripts/run_tests.js"
   },
   "repository": {
     "type": "git",

@@ -1,5 +1,5 @@
 var fs = require('fs'),
-  u = require('./vendor/underscore');
+  u = require('../vendor/underscore');
 
 var template = u.template(fs.readFileSync('index.html.ejs').toString());
 

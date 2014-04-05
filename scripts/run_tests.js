@@ -1,8 +1,8 @@
 // to run all examples:
-//   $ node node_runner.js
+//   $ node run_tests.js
 //
 // to run single file:
-//   $ node node_runner.js examples/my_file_name.js
+//   $ node run_tests.js examples/my_file_name.js
 
 var assert = require('assert'),
   fs = require('fs'),
