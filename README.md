@@ -81,7 +81,7 @@ These apply to real life, as well.
     * Install GitHub for [Mac](https://mac.github.com) or [Windows](https://windows.github.com)
     * Sign up for GitHub
 * Student checklist:
-    * "Watch" this repository (need a [GitHub account](https://github.com))
+    * "Watch" this repository
 
         ![watch](assets/watch.png)
 
@@ -95,7 +95,6 @@ These apply to real life, as well.
     * Create pull request on [demo repository](https://github.com/advanced-js/pr-demo)
 * Get through "self_executing_functions" slide
 * Homework:
-    * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
     * Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
     * Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/blink) exercises
     * Complete [blink](https://github.com/advanced-js/blink) exercise
@@ -114,6 +113,7 @@ These apply to real life, as well.
         * [Classes](http://jsbin.com/edoRoGU/1/edit?js,output)
     * [Other frameworks](#test-frameworks)
 * Homework:
+    * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
     * [Memory v2](projects/memory.md#v2) (individual)
 
 ### Class 3
