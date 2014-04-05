@@ -270,25 +270,3 @@ Recommended:
 ### Instructor
 
 Reuse and building upon ideas or code are major parts of modern software development.  As a professional programmer you will never write anything from scratch.  Please respect the terms of use and/or license, and if you reimplement or duplicate an algorithm or code from elsewhere, credit the original source with an inline comment.
-
-------------------------------------
-
-## Using this repo
-
-[Node.js](http://nodejs.org) is required (tested w/ Node v0.10.2).  To run the `examples/`:
-
-    $ node run_tests.js
-
-To run an individual exercise:
-
-    $ node run_tests.js examples/FILENAME.js
-
-To build the examples as HTML:
-
-    $ node build.js
-
-To build this README as a PDF:
-
-    $ gem install gimli
-    $ gimli
-    # outputs README.pdf
