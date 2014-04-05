@@ -1,6 +1,6 @@
 # Advanced JavaScript syllabus
 
-***See this README prettier [here](http://documentup.com/advanced-js/syllabus).***
+***See this README with a table of contents [here](http://documentup.com/advanced-js/syllabus).***
 
 * **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
 * **Instructor:** Aidan Feldman, alf9@nyu.edu
@@ -13,7 +13,7 @@
 
 Learn best practices in JavaScript in this intensive, five-session course. Topics include data encapsulation, closures, binding, inheritance, and name spacing. Discover some of the lesser-known, yet useful, features of the language, such as how to debug JavaScript problems on different browsers and improve performance. Create interactive webpages using third-party JavaScript libraries.
 
-Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises if you feel more comfortable coding in your own environment.
+Computers are provided in the lab, though you are encouraged to bring a laptop for in-class exercises.
 
 ## Prerequisites
 
