@@ -47,9 +47,11 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Workflow
 
-1. Fork the repository for the exercise/assignment (found under [github.com/advanced-js](https://github.com/advanced-js))
+1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js))
 1. Clone the repository to your computer
+1. Open the `index.html` file in a browser and open the Developer Tools
 1. Modify the files to complete your solution
+1. Refresh the `index.html` page to see the results, and repeat
 1. Make sure all of your code is committed
 1. Push/sync up to GitHub
 1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository
