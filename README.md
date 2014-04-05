@@ -51,6 +51,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Clone the repository to your computer
 1. Modify the files to complete your solution
 1. Make sure all of your code is committed
+1. Push/sync up to GitHub
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository
 1. Submit a link to your pull request in the assignment in [NYU Classes](https://newclasses.nyu.edu) by the due time (generally the start of the following class)
 
 Feedback will be given in the pull request, and you can continue to push fixes and improvements until the close date (listed in Classes).  Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
@@ -74,7 +76,8 @@ These apply to real life, as well.
 ### Class 1
 
 * Introduction
-    * [Organization](https://github.com/advanced-js) walkthrough
+    * Install GitHub for [Mac](https://mac.github.com) or [Windows](https://windows.github.com)
+    * Sign up for GitHub
 * Student checklist:
     * "Watch" this repository (need a [GitHub account](https://github.com))
 
@@ -84,6 +87,10 @@ These apply to real life, as well.
         * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
 * Explain how slides work
     * Look at [helpers.js](https://github.com/advanced-js/deck/blob/gh-pages/assets/helpers.js)
+* Get through `echo_exercise` slide
+* GitHub workflow
+    * [Organization](https://github.com/advanced-js) walkthrough
+    * Create pull request on [demo repository](https://github.com/advanced-js/pr-demo)
 * Get through "self_executing_functions" slide
 * Homework:
     * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
