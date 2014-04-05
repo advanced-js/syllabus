@@ -95,7 +95,7 @@ These apply to real life, as well.
 * Homework:
     * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
     * Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-    * Finish up and submit `echo()` and `countdown()` exercises
+    * Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/blink) exercises
     * Complete [blink](https://github.com/advanced-js/blink) exercise
 
 ### Class 2
