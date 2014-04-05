@@ -103,7 +103,7 @@ These apply to real life, as well.
 
 * Look at various approaches for `countdown()`
     * Show recursive solution
-* Pair program to build [Memory v1](projects/memory.md) (see [pairing tips](#pairing-tips))
+* Pair program to build [Memory v1](https://github.com/advanced-js/memory) (see [pairing tips](#pairing-tips))
 * Cover OOP, though "oop_inheritance" slide
     * [Encapsulation example](http://jsbin.com/eGiteJa/2/edit?css,js,output)
     * Look at [Backbone.js Events](http://backbonejs.org/docs/backbone.html)
@@ -114,7 +114,7 @@ These apply to real life, as well.
     * [Other frameworks](#test-frameworks)
 * Homework:
     * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-    * [Memory v2](projects/memory.md#v2) (individual)
+    * [Memory v2](https://github.com/advanced-js/memory#v2) (individual)
 
 ### Class 3
 
