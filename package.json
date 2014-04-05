@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/afeld/advanced_js.git"
+    "url": "git://github.com/advanced-js/syllabus.git"
   },
   "keywords": [
     "javascript",
@@ -21,6 +21,6 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/afeld/advanced_js/issues"
+    "url": "https://github.com/advanced-js/syllabus/issues"
   }
 }

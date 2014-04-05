@@ -1,11 +1,11 @@
-# Advanced JavaScript [![Build Status](https://travis-ci.org/afeld/advanced_js.png?branch=master)](https://travis-ci.org/afeld/advanced_js)
+# Advanced JavaScript [![Build Status](https://travis-ci.org/advanced-js/syllabus.png?branch=master)](https://travis-ci.org/advanced-js/syllabus)
 
-***See this README prettier [here](http://documentup.com/afeld/advanced_js).***
+***See this README prettier [here](http://documentup.com/advanced-js/syllabus).***
 
 * **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
 * **Instructor:** Aidan Feldman, alf9@nyu.edu
 * **Need help?**
-   * [Issues](https://github.com/afeld/advanced_js/issues) (please don't post solutions)
+   * [Issues](https://github.com/advanced-js/syllabus/issues) (please don't post solutions)
    * Office Hours on Sundays during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
    * [Email](alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
 
@@ -17,7 +17,7 @@ Computers are provided in the lab, though you are encouraged to bring a laptop f
 
 ## Prerequisites
 
-* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](https://github.com/afeld/advanced_js/blob/master/vendor/INFO1-CE9755%20JavaScript.pdf?raw=true)) or equivalent
+* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](https://github.com/advanced-js/syllabus/blob/master/vendor/INFO1-CE9755%20JavaScript.pdf?raw=true)) or equivalent
 * Understanding of variables, data types, control flow, and basic function usage in JavaScript - see [Beginner Materials](#beginner-materials)
 * Strong intermediate knowledge of HTML, and at least basics of CSS
 * Basic jQuery knowledge (DOM interaction) is a plus
