@@ -77,79 +77,87 @@ These apply to real life, as well.
 
 ### Class 1
 
-* Introduction
+1. Introduction
     * Install GitHub for [Mac](https://mac.github.com) or [Windows](https://windows.github.com)
     * Sign up for GitHub
-* Student checklist:
+1. Student checklist:
     * "Watch" this repository
 
         ![watch](assets/watch.png)
 
     * Access [NYU Classes](https://newclasses.nyu.edu) page
         * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
-* Explain how slides work
+1. Explain how slides work
     * Look at [helpers.js](https://github.com/advanced-js/deck/blob/gh-pages/assets/helpers.js)
-* Get through `echo_exercise` slide
-* GitHub workflow
-    * [Organization](https://github.com/advanced-js) walkthrough
+1. Get through `echo_exercise` slide
+1. GitHub workflow
+    * Walk through [workflow](#workflow)
     * Create pull request on [demo repository](https://github.com/advanced-js/pr-demo)
-* Get through "self_executing_functions" slide
-* Homework:
-    * Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-    * Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/blink) exercises
-    * Complete [blink](https://github.com/advanced-js/blink) exercise
+1. Get through "self_executing_functions" slide
+
+#### Homework
+
+* Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
+* Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/blink) exercises
+* Complete [blink](https://github.com/advanced-js/blink) exercise
 
 ### Class 2
 
-* Look at various approaches for `countdown()`
+1. Look at various approaches for `countdown()`
     * Show recursive solution
-* Pair program to build [Memory v1](https://github.com/advanced-js/memory) (see [pairing tips](#pairing-tips))
-* Cover OOP, though "oop_inheritance" slide
+1. Pair program to build [Memory v1](https://github.com/advanced-js/memory) (see [pairing tips](#pairing-tips))
+1. Cover OOP, though "oop_inheritance" slide
     * [Encapsulation example](http://jsbin.com/eGiteJa/2/edit?css,js,output)
     * Look at [Backbone.js Events](http://backbonejs.org/docs/backbone.html)
-* Cover automated testing
+1. Cover automated testing
     * Examples in QUnit
         * [Simple](http://jsbin.com/AqENEjo/1/edit?html,js,output)
         * [Classes](http://jsbin.com/edoRoGU/1/edit?js,output)
     * [Other frameworks](#test-frameworks)
-* Homework:
-    * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-    * [Memory v2](https://github.com/advanced-js/memory#v2) (individual)
+
+#### Homework
+
+* Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [Memory v2](https://github.com/advanced-js/memory#v2) (individual)
 
 ### Class 3
 
-* Code review Memory
-* Finish slides
-* Developer Tools walkthrough
+1. Code review Memory
+1. Finish slides
+1. Developer Tools walkthrough
     * Elements (HTML)
     * Console (JS)
     * Scripts (JS)
-* Cover AJAX/JSONP ([files](demos/ajax))
+1. Cover AJAX/JSONP ([files](demos/ajax))
     * Network tab in Developer Tools
-* Homework:
-    * [Mashup](projects/mashup.md) v1
+
+#### Homework
+
+* [Mashup](projects/mashup.md) v1
 
 ### Class 4
 
-* Mashup demos
-* Add tests to namespace
+1. Mashup demos
+1. Add tests to namespace
     * Build up a test framework from scratch
     * Show QUnit
-* Getting Serious example
+1. Getting Serious example
     * Quick intro to Backbone.js
         * [Boilerplate](http://jsbin.com/IGivato/1/edit?html,js,output)
         * Click the Box [example app](http://jsbin.com/IGivato/5/edit?css,js,output)
         * TDD?
-* Multiple async
+1. Multiple async
     * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
     * Possibly show [async](https://github.com/caolan/async#control-flow-1) library?
-* Homework:re
-    * [Mashup](projects/mashup.md) v2
+
+#### Homework
+
+* [Mashup](projects/mashup.md) v2
 
 ### Class 5
 
-* Present and code review Mashup projects
-* Possible topics (vote?):
+1. Present and code review Mashup projects
+1. Possible topics (vote?):
     * Node.js
         * Server "Hello World" (from [Node.js homepage](http://nodejs.org/))
             * [HTTP module docs](http://nodejs.org/api/http.html)
