@@ -133,7 +133,7 @@ These apply to real life, as well.
 
 #### Homework
 
-* [Mashup](projects/mashup.md) v1
+* [Mashup v1](https://github.com/advanced-js/mashup)
 
 ### Class 4
 
@@ -152,7 +152,7 @@ These apply to real life, as well.
 
 #### Homework
 
-* [Mashup](projects/mashup.md) v2
+* [Mashup v2](https://github.com/advanced-js/mashup#v2)
 
 ### Class 5
 
@@ -168,10 +168,6 @@ These apply to real life, as well.
     * [Regular Expressions](demos/regex.html)
         * Convert live input, e.g. link Twitter handles from a textarea
     * Command-line and Git
-
-## Projects
-
-Possible projects are listed [here](projects).
 
 ## Pairing Tips
 
