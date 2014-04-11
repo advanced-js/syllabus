@@ -98,7 +98,7 @@ These apply to real life, as well.
 #### Homework
 
 * Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/blink) exercises
+* Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/countdown) exercises
 * Complete [blink](https://github.com/advanced-js/blink) exercise
 
 ### Class 2
