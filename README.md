@@ -107,7 +107,7 @@ These apply to real life, as well.
     * Show recursive solution
 1. Pair program to build [Memory v1](https://github.com/advanced-js/memory) (see [pairing tips](#pairing-tips))
 1. Cover OOP, though "oop_inheritance" slide
-    * [Encapsulation example](http://jsbin.com/eGiteJa/2/edit?css,js,output)
+    * [Encapsulation example](http://jsbin.com/baqopu/1/edit?css,js,output)
     * Look at [Backbone.js Events](http://backbonejs.org/docs/backbone.html)
 1. Cover automated testing
     * Examples in QUnit
