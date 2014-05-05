@@ -57,7 +57,9 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository
 1. Submit a link to your pull request in the assignment in [NYU Classes](https://newclasses.nyu.edu) by the due time (generally the start of the following class)
 
-Feedback will be given in the pull request, and you can continue to push fixes and improvements until the close date (listed in Classes).  Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level.
+Feedback will be given in the pull request, so please respond with your thoughts and questions!  You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.  You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@afeld` with the question to make sure I know to look at it sooner.
+
+Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level.
 
 ### Requirements
 
