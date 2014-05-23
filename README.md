@@ -17,7 +17,7 @@ Computers are provided in the lab, though you are encouraged to bring a laptop f
 
 ## Prerequisites
 
-* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](https://github.com/advanced-js/syllabus/blob/master/vendor/INFO1-CE9755%20JavaScript.pdf?raw=true)) or equivalent
+* [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](http://samsultan.com/javascript)) or equivalent
 * Understanding of variables, data types, control flow, and basic function usage in JavaScript - see [Beginner Materials](#beginner-materials)
 * Strong intermediate knowledge of HTML, and at least basics of CSS
 * Basic jQuery knowledge (DOM interaction) is a plus
@@ -130,7 +130,7 @@ These apply to real life, as well.
     * Elements (HTML)
     * Console (JS)
     * Scripts (JS)
-1. Cover AJAX/JSONP ([files](demos/ajax))
+1. Cover AJAX/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
     * Network tab in Developer Tools
 
 #### Homework
@@ -167,7 +167,7 @@ These apply to real life, as well.
             * [Status codes](http://pretty-rfc.herokuapp.com/RFC2616#status.codes)
             * Headers
         * CommonJS?
-    * [Regular Expressions](demos/regex.html)
+    * [Regular Expressions](https://github.com/advanced-js/deck/tree/gh-pages/demos/regex.html)
         * Convert live input, e.g. link Twitter handles from a textarea
     * Command-line and Git
     * [Code Retreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat)
@@ -230,7 +230,7 @@ This class assumes you are confident with this material, but in case you need a 
 ### Tools
 
 * code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
-* debugging: [Chrome Developer Tools](https://developers.google.com/chrome-developer-tools/docs/overview) ([tutorial](http://code.google.com/chrome/extensions/tut_debugging.html)) / [Firebug](http://getfirebug.com/)
+* debugging: [Chrome Developer Tools](https://developer.chrome.com/devtools/index) ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / [Firebug](http://getfirebug.com/)
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
 
