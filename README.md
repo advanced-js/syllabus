@@ -233,7 +233,16 @@ This class assumes you are confident with this material, but in case you need a 
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
 
-#### HTML/CSS/JS sandbox
+#### GitHub
+
+* Git and GitHub
+    * [Official GitHub Help](https://help.github.com/)
+    * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+* GitHub Pages
+    * [Official site](http://pages.github.com/)
+    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+
+#### HTML/CSS/JS Sandboxes
 
 * [JS Bin](http://jsbin.com/) (recommended)
 * [bl.ocks.org](http://bl.ocks.org/)
@@ -254,15 +263,6 @@ This class assumes you are confident with this material, but in case you need a 
 * [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
 * [w3schools](http://www.w3schools.com/jsref/default.asp)
 * [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
-
-### GitHub
-
-* Git and GitHub
-    * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
-* GitHub Pages
-    * [Official site](http://pages.github.com/)
-    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 ### More Examples
 
