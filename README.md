@@ -245,16 +245,9 @@ This class assumes you are confident with this material, but in case you need a 
 
 #### Test Frameworks
 
-Recommended:
-
-* [QUnit](http://qunitjs.com/) (the simplest one)
-    * [boilerplate](http://jsbin.com/otugUwI/1/edit?html,js,output)
-        * If you prefer to work locally, choose "Download" from the menu.
-
-            ![jsBin download](assets/jsbin_download.png)
-
 * [Jasmine](http://pivotal.github.io/jasmine/)
 * [Mocha](http://visionmedia.github.io/mocha/)
+* [QUnit](http://qunitjs.com/)
 
 ### Reference
 
