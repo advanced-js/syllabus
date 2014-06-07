@@ -218,7 +218,7 @@ This class assumes you are confident with this material, but in case you need a 
 * [HTML5 Rocks slides](http://slides.html5rocks.com/)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 
-### Other Lists
+#### Other Lists
 
 * [JS: The Right Way](http://www.jstherightway.org/) (an overview of the JS landscape)
 * [Code School](http://www.codeschool.com/paths/javascript)
