@@ -120,6 +120,7 @@ These apply to real life, as well.
 #### Homework
 
 * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [OOP exercise](https://github.com/advanced-js/oop), through V2
 * [Memory v2](https://github.com/advanced-js/memory#v2) (individual)
 
 ### Class 3
@@ -135,11 +136,11 @@ These apply to real life, as well.
 
 #### Homework
 
-* [Mashup v1](https://github.com/advanced-js/mashup)
+* [OOP exercise V3](https://github.com/advanced-js/oop#v3)
+* [Memory V3](https://github.com/advanced-js/memory#v3)
 
 ### Class 4
 
-1. Mashup demos
 1. Add tests to namespace
     * Build up a test framework from scratch
     * Show QUnit
@@ -154,7 +155,7 @@ These apply to real life, as well.
 
 #### Homework
 
-* [Mashup v2](https://github.com/advanced-js/mashup#v2)
+* [Mashup](https://github.com/advanced-js/mashup)
 
 ### Class 5
 
