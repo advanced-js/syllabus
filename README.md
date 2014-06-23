@@ -56,8 +56,11 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Push/sync up to GitHub
 1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository
 1. Submit a link to your pull request in the assignment in [NYU Classes](https://newclasses.nyu.edu) by the due time (generally the start of the following class)
+1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
 
-Feedback will be given in the pull request, so please respond with your thoughts and questions!  You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.  You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@afeld` with the question to make sure I know to look at it sooner.
+When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
+
+Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@afeld` with the question to make sure I know to look at it sooner.
 
 Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level.
 
@@ -65,8 +68,9 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 These apply to real life, as well.
 
-* All HTML files should pass [W3C Markup Validation](http://validator.w3.org/)
-* All written JS should pass [JSHint](http://jshint.com/)
+* [Travis CI](http://docs.travis-ci.com) build should pass, which includes:
+    * All HTML files should pass [W3C Markup Validation](http://validator.w3.org)
+    * All written JS should pass [JSHint](http://jshint.com)
 * Must apply "good programming style" learned in class
     * Functions should be "short" (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers))
     * Optimize for readability
