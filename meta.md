@@ -14,6 +14,7 @@ All class materials and assignments are in public repositories under a single or
     * Interacting and contributing to open source
     * Getting comfortable with Git & GitHub
 * Making it easy for others to watch changes, fork, create issues and pull requests against the class materials
+* Setting up an expectation of trust with the students – see the [Statements on Plagiarism](https://github.com/advanced-js/syllabus#instructor) for more info
 
 The structure of the class relies heavily on GitHub features, so as a bonus it acts as a testbed for recommendations made as part of the [GitHub Education program](https://education.github.com).  For example:
 
