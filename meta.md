@@ -25,6 +25,7 @@ The structure of the class relies heavily on GitHub features, so as a bonus it a
 * **[The slide deck](http://advanced-js.github.io/deck/) is a public webpage**, hosted using [GitHub Pages](https://pages.github.com).
 * By [setting the default branch](https://help.github.com/articles/setting-the-default-branch) in each assignment repository to be `gh-pages`, **every student's fork/submission is then a live Pages site** that can be used for grading, so the files never need to be downloaded for grading.
 * Students are added to teams by term (e.g. `summer-2014`), so that **[team mentions](https://github.com/blog/1121-introducing-team-mentions)** can be used to direct everyone's attention to important syllabus changes or important pieces of feedback.
+    * As part of the first class, students submit pull requests to add themselves to the [students](https://github.com/advanced-js/students) repository.  This is partially to collect their usernames, and partially to tie their usernames to their real names.  [A script](https://github.com/advanced-js/students/blob/master/add_students.rb) is then run to automatically add them to the team for that term.
 
 Basically the only thing that isn't done in the repositories or in class is giving the grades, which are done through  NYU's Classes [LMS](https://en.wikipedia.org/wiki/Learning_management_system).
 
