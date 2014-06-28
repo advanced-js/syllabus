@@ -174,7 +174,9 @@ These apply to real life, as well.
         * CommonJS?
     * [Regular Expressions](https://github.com/advanced-js/deck/tree/gh-pages/demos/regex.html)
         * Convert live input, e.g. link Twitter handles from a textarea
-    * [Code Retreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat)
+    * [Code Retreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat) – possible "problems":
+        * [Game of Life](http://coderetreat.org/gol)
+        * Tic Tac Toe
 
 ## Pairing Tips
 
