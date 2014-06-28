@@ -185,7 +185,7 @@ These apply to real life, as well.
 * The person who's less experienced/comfortable should have more keyboard time
 * Switch who's "driving" regularly
 * Make sure to save the code and send it to both people
-* [JS Bin](http://jsbin.com/) supports live collaborating
+* [JSFiddle](http://jsfiddle.net) supports live collaborating
 
 ## Resources
 
@@ -254,7 +254,7 @@ This class assumes you are confident with this material, but in case you need a 
 * [bl.ocks.org](http://bl.ocks.org/)
 * [Cloud9](https://c9.io/)
 * [CodePen](http://codepen.io/pen/)
-* [jsFiddle](http://jsfiddle.net/)
+* [JSFiddle](http://jsfiddle.net/)
 * [Plunker](http://plnkr.co/)
 * [rawgithub.com](http://rawgithub.com/)
 
