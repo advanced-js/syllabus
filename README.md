@@ -87,10 +87,6 @@ These apply to real life, as well.
     * Install GitHub for [Mac](https://mac.github.com) or [Windows](https://windows.github.com)
     * Sign up for GitHub
 1. Student checklist:
-    * "Watch" this repository
-
-        ![watch](assets/watch.png)
-
     * Access [NYU Classes](https://newclasses.nyu.edu) page
         * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
 1. Explain how slides work
@@ -98,7 +94,7 @@ These apply to real life, as well.
 1. Get through `echo_exercise` slide
 1. GitHub workflow
     * Walk through [workflow](#workflow)
-    * Create pull request on [demo repository](https://github.com/advanced-js/pr-demo)
+    * Create pull request on [students repository](https://github.com/advanced-js/students)
 1. Get through "self_executing_functions" slide
 
 #### Homework
