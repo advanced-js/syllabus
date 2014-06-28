@@ -197,7 +197,7 @@ These apply to real life, as well.
 
 This class assumes you are confident with this material, but in case you need a brush-up...
 
-* [Codecademy](http://www.codecademy.com/tracks/javascript)
+* Codecademy – [JavaScript](http://www.codecademy.com/tracks/javascript) and [jQuery](http://www.codecademy.com/tracks/jquery)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
 
 ### Recommended Reading
