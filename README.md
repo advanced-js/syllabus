@@ -54,8 +54,7 @@ All assignments are listed within the [Course Outline](#course-outline).
 1. Refresh the `index.html` page to see the results, and repeat
 1. Make sure all of your code is committed
 1. Push/sync up to GitHub
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository
-1. Submit a link to your pull request in the assignment in [NYU Classes](https://newclasses.nyu.edu) by the due time (generally the start of the following class)
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository by the due time (generally the start of the following class)
 1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
 
 When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
@@ -87,7 +86,7 @@ These apply to real life, as well.
     * Install GitHub for [Mac](https://mac.github.com) or [Windows](https://windows.github.com)
     * Sign up for GitHub
 1. Student checklist:
-    * Access [NYU Classes](https://newclasses.nyu.edu) page
+    * Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted
         * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
 1. Explain how slides work
     * Look at [helpers.js](https://github.com/advanced-js/deck/blob/gh-pages/assets/helpers.js)
