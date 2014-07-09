@@ -149,7 +149,7 @@ These apply to real life, as well.
         * Click the Box [example app](http://jsbin.com/IGivato/5/edit?css,js,output)
         * TDD?
 1. Multiple async
-    * Promises/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
+    * [Promises](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax/promises)/[jQuery.Deferred](http://api.jquery.com/jQuery.Deferred/)
     * Possibly show [async](https://github.com/caolan/async#control-flow-1) library?
 
 #### Homework
