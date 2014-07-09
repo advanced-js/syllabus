@@ -277,6 +277,8 @@ This class assumes you are confident with this material, but in case you need a 
 
 * Class Participation – 30%
 * Homework – 70%
+* Extra credit:
+    * Fix [open Issues](https://github.com/afeld/advanced_js/issues) on this repo (points on a sliding scale)
 
 ## Statements on Plagiarism
 
