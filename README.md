@@ -6,7 +6,7 @@
 * **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
 * **Need help?**
    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-   * Office Hours on Sundays during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
+   * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
    * [Email](mailto:alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
