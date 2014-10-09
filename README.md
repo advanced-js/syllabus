@@ -106,15 +106,14 @@ These apply to real life, as well.
 
 1. Look at various approaches for `countdown()`
     * Show recursive solution
+1. Developer Tools walkthrough
+    * Elements (HTML)
+    * Console (JS)
+    * Scripts (JS)
 1. Pair program to build [Memory v1](https://github.com/advanced-js/memory) (see [pairing tips](#pairing-tips))
 1. Cover OOP, though "oop_inheritance" slide
     * [Encapsulation example](http://jsbin.com/baqopu/1/edit?css,js,output)
     * Look at [Backbone.js Events](http://backbonejs.org/docs/backbone.html)
-1. Cover automated testing
-    * Examples in QUnit
-        * [Simple](http://jsbin.com/AqENEjo/1/edit?html,js,output)
-        * [Classes](http://jsbin.com/edoRoGU/1/edit?js,output)
-    * [Other frameworks](#test-frameworks)
 
 #### Homework
 
@@ -126,10 +125,11 @@ These apply to real life, as well.
 
 1. Code review Memory
 1. Finish slides
-1. Developer Tools walkthrough
-    * Elements (HTML)
-    * Console (JS)
-    * Scripts (JS)
+1. Cover automated testing
+    * Examples in QUnit
+        * [Simple](http://jsbin.com/AqENEjo/1/edit?html,js,output)
+        * [Classes](http://jsbin.com/edoRoGU/1/edit?js,output)
+    * [Other frameworks](#test-frameworks)
 1. Cover AJAX/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
     * Network tab in Developer Tools
 
