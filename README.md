@@ -89,7 +89,6 @@ These apply to real life, as well.
     * Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted
         * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
 1. Explain how slides work
-    * Look at [helpers.js](https://github.com/advanced-js/deck/blob/gh-pages/assets/helpers.js)
 1. Get through `echo_exercise` slide
 1. GitHub workflow
     * Walk through [workflow](#workflow)
@@ -117,15 +116,16 @@ These apply to real life, as well.
 
 #### Homework
 
-* Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* Read [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * [OOP exercise](https://github.com/advanced-js/oop), through V2
 * [Memory v2](https://github.com/advanced-js/memory#v2) (individual)
 
 ### Class 3
 
 1. Code review Memory
-1. Finish slides
+1. Get through [`oop_inheritance`](http://localhost:4000/examples/oop_inheritance/) slide
 1. Cover automated testing
+    * Build up a test framework from scratch
     * Examples in QUnit
         * [Simple](http://jsbin.com/AqENEjo/1/edit?html,js,output)
         * [Classes](http://jsbin.com/edoRoGU/1/edit?js,output)
@@ -135,14 +135,13 @@ These apply to real life, as well.
 
 #### Homework
 
+* Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [OOP exercise V3](https://github.com/advanced-js/oop#v3)
 * [Memory V3](https://github.com/advanced-js/memory#v3)
 
 ### Class 4
 
-1. Add tests to namespace
-    * Build up a test framework from scratch
-    * Show QUnit
+1. Finish slides
 1. Getting Serious example
     * Quick intro to Backbone.js
         * [Boilerplate](http://jsbin.com/IGivato/1/edit?html,js,output)
@@ -154,6 +153,7 @@ These apply to real life, as well.
 
 #### Homework
 
+* [Namespace exercise](https://github.com/advanced-js/namespace)
 * [Mashup](https://github.com/advanced-js/mashup)
 
 ### Class 5
