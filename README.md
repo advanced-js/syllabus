@@ -180,7 +180,6 @@ These apply to real life, as well.
 * The person who's less experienced/comfortable should have more keyboard time
 * Switch who's "driving" regularly
 * Make sure to save the code and send it to both people
-* [JSFiddle](http://jsfiddle.net) supports live collaborating
 
 ## Resources
 
