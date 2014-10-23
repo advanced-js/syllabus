@@ -201,6 +201,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 ### Recommended Reading
 
+* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by Michael Fogus
 * [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
 * [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
 * [JavaScript Patterns](http://shichuan.github.com/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
