@@ -233,7 +233,11 @@ This class assumes you are confident with this material, but in case you need a 
 ### Tools
 
 * code validation: [JSLint](http://jslint.com) / [JSHint](http://jshint.com)
-* debugging: [Chrome Developer Tools](https://developer.chrome.com/devtools/index) ([tutorial](https://developer.chrome.com/extensions/tut_debugging)) / [Firebug](http://getfirebug.com/)
+* debugging:
+    * [Chrome Developer Tools](https://developer.chrome.com/devtools/index)
+        * [Official debugging tutorial](https://developer.chrome.com/extensions/tut_debugging)
+        * Tutorial: [JavaScript Diagnosis](http://www.macwright.org/2015/03/10/javascript-diagnosis.html)
+    * [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
 
