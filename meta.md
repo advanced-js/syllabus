@@ -36,7 +36,11 @@ Basically the only thing that isn't done in the repositories or in class is givi
 
 ## Engagement
 
-This is a vocational class taught in a [major tech hub](https://en.wikipedia.org/wiki/Silicon_Alley), so I encourage the students to engage with the larger tech community.  Instead of having office hours specific to one class (with potentially low attendance), I started a [meetup](http://www.meetup.com/) called [Hacker Hours](http://hackerhours.org/) that offers free recurring programming help to *anyone*.  Students can then come and get help from me or any of the other mentors that attend, and ideally connect with other learners outside of the class.
+This is a vocational class taught in a [major tech hub](https://en.wikipedia.org/wiki/Silicon_Alley), so I encourage the students to engage with one another, as well the larger tech community.
+
+On the first day, when everyone introduces themselves, I also ask them to name a topic that they think everyone else knows, but they don't. This is to attempt to create a culture of ["I don't know"](http://freakonomics.com/2014/05/15/the-three-hardest-words-in-the-english-language-a-new-freakonomics-radio-podcast/), to show that *everyone* feels that way about something (or many things), and that they shouldn't be afraid to speak up when something doesn't make sense. In short: [fighting impostor syndrome](https://gist.github.com/afeld/6903915).
+
+To encourage broader community engagement, instead of having office hours specific to one class (with potentially low attendance), I started a [meetup](http://www.meetup.com/) called [Hacker Hours](http://hackerhours.org/) that offers free programming help to *anyone*.  Students can then come and get help from me or any of the other mentors that attend, and ideally connect with other learners outside of the class.
 
 ## Sharing
 
