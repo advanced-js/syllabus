@@ -83,6 +83,13 @@ These apply to real life, as well.
 ### Class 1
 
 1. Introduction
+    * Discuss what the class is going to cover
+    * Everyone introduce themselves
+        * Name
+        * What you "do"
+        * What are your goals for the class?
+        * What's something in JS (or technology) you worry that your peers understand but you don't?
+1. Setup
     * Install GitHub for [Mac](https://mac.github.com) or [Windows](https://windows.github.com)
     * Sign up for GitHub
 1. Student checklist:
