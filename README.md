@@ -48,21 +48,21 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Workflow
 
-1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js))
-1. Clone the repository to your computer
-1. Open the `index.html` file in a browser and open the Developer Tools
-1. Modify the files to complete your solution
-1. Refresh the `index.html` page to see the results, and repeat
-1. Make sure all of your code is committed
-1. Push/sync up to GitHub
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository by the due time (generally the start of the following class)
+1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
+1. Clone the repository to your computer.
+1. Open the `index.html` file in a browser and open the Developer Tools.
+1. Modify the files to complete your solution.
+1. Refresh the `index.html` page to see the results, and repeat.
+1. Make sure all of your code is committed.
+1. Push/sync up to GitHub.
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
 1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
 
 When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
 
 Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@afeld` with the question to make sure I know to look at it sooner.
 
-Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level.
+Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level. "BONUS" levels are for extra credit.
 
 ### Requirements
 
