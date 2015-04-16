@@ -5,8 +5,9 @@
 * **Course:** [INFO1-CE9766, NYU SCPS](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9766)
 * **Instructor:** Aidan Feldman, [alf9@nyu.edu](mailto:alf9@nyu.edu)
 * **Need help?**
-   * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-   * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
+    * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
+    * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
    * [Email](mailto:alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
