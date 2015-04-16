@@ -84,6 +84,7 @@ These apply to real life, as well.
 ### Class 1
 
 1. Introduction
+    * Put name on sticky note on back of monitor
     * Discuss what the class is going to cover
     * Everyone introduce themselves
         * Name
