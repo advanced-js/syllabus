@@ -139,7 +139,7 @@ These apply to real life, as well.
         * [Simple](http://jsbin.com/AqENEjo/1/edit?html,js,output)
         * [Classes](http://jsbin.com/edoRoGU/1/edit?js,output)
     * [Other frameworks](#test-frameworks)
-1. Cover AJAX/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
+1. Cover AJAX/CORS/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
     * Network tab in Developer Tools
 
 #### Homework
@@ -177,7 +177,10 @@ These apply to real life, as well.
             * Headers
         * CommonJS?
     * [Regular Expressions](https://github.com/advanced-js/deck/tree/gh-pages/demos/regex.html)
-        * Convert live input, e.g. link Twitter handles from a textarea
+        * Convert live input from a text area, e.g.
+            * Link Twitter handles
+            * Substitute select words for emoji, using [emoji-css](http://afeld.github.io/emoji-css/)
+    * Object-Oriented design
     * [Code Retreat](http://coderetreat.org/facilitating/structure-of-a-coderetreat) – possible "problems":
         * [Game of Life](http://coderetreat.org/gol)
         * Tic Tac Toe
