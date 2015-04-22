@@ -97,12 +97,11 @@ These apply to real life, as well.
 1. Student checklist:
     * Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted
         * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
-1. Explain how slides work
-1. Get through `echo_exercise` slide
 1. GitHub workflow
     * Walk through [workflow](#workflow)
     * Create pull request on [students repository](https://github.com/advanced-js/students)
-1. Get through "self_executing_functions" slide
+1. Explain how slides work
+1. Get through `countdown_exercise` slide
 
 #### Homework
 
