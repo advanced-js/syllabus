@@ -76,6 +76,7 @@ These apply to real life, as well.
     * Functions should be "short" (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers))
     * Optimize for readability
     * For projects, use Object-Oriented Programming
+* Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor)
 * Bonus points for:
     * [Automated tests](#test-frameworks)
     * Creativity (as long as requirements are fulfilled)
@@ -101,6 +102,7 @@ These apply to real life, as well.
 1. GitHub workflow
     * Walk through [workflow](#workflow)
     * Create pull request on [students repository](https://github.com/advanced-js/students)
+1. Talk through [requirements](#homework-projects/requirements)
 1. Explain how slides work
 1. Get through `countdown_exercise` slide
 
