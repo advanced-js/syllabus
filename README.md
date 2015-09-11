@@ -212,6 +212,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 * Codecademy – [JavaScript](http://www.codecademy.com/tracks/javascript) and [jQuery](http://www.codecademy.com/tracks/jquery)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
+* [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
 * see also – [Other Lists](#other-lists)
 
 ### Recommended Reading
