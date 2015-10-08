@@ -49,6 +49,8 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Workflow
 
+If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps:
+
 1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
 1. Clone the repository to your computer.
 1. Open the `index.html` file in a browser and open the Developer Tools.
@@ -99,6 +101,7 @@ These apply to real life, as well.
 1. Setup
     * How many people are comfortable with Git/GitHub?
     * Install [GitHub Desktop](https://desktop.github.com/)
+        * If you are comfortable with Git already, you can skip this.
     * Sign up for GitHub
 1. GitHub workflow
     * Walk through [workflow](#workflow)
