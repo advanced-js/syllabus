@@ -98,7 +98,7 @@ These apply to real life, as well.
         * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
 1. Setup
     * How many people are comfortable with Git/GitHub?
-    * Install GitHub for [Mac](https://mac.github.com) or [Windows](https://windows.github.com)
+    * Install [GitHub Desktop](https://desktop.github.com/)
     * Sign up for GitHub
 1. GitHub workflow
     * Walk through [workflow](#workflow)
