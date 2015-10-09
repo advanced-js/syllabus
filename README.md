@@ -95,9 +95,6 @@ These apply to real life, as well.
         * What you "do"
         * What are your goals for the class?
         * What's something in JS (or technology) you worry that your peers understand but you don't?
-1. Student checklist:
-    * Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted
-        * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
 1. Setup
     * How many people are comfortable with Git/GitHub?
     * Install [GitHub Desktop](https://desktop.github.com/)
@@ -112,6 +109,8 @@ These apply to real life, as well.
 
 #### Homework
 
+* Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted
+    * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
 * Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
 * Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/countdown) exercises
 * Complete [blink](https://github.com/advanced-js/blink) exercise
