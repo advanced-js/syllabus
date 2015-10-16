@@ -109,11 +109,12 @@ These apply to real life, as well.
 
 #### Homework
 
-* Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted
+* Join [the chat room](https://gitter.im/advanced-js/syllabus).
+* Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted.
     * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
-* Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
-* Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/countdown) exercises
-* Complete [blink](https://github.com/advanced-js/blink) exercise
+* Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/).
+* Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/countdown) exercises.
+* Complete [blink](https://github.com/advanced-js/blink) exercise.
 
 ### Class 2
 
