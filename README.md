@@ -138,7 +138,7 @@ These apply to real life, as well.
 ### Class 3
 
 1. Code review Memory
-1. Get through [`oop_inheritance`](http://localhost:4000/examples/oop_inheritance/) slide
+1. Get through [`oop_inheritance`](http://advanced-js.github.io/deck/examples/oop_inheritance/) slide
 1. Cover automated testing
     * Build up a test framework from scratch
     * Examples in QUnit
