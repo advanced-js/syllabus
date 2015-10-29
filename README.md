@@ -142,8 +142,8 @@ These apply to real life, as well.
 1. Cover automated testing
     * Build up a test framework from scratch
     * Examples in QUnit
-        * [Simple](http://jsbin.com/AqENEjo/1/edit?html,js,output)
-        * [Classes](http://jsbin.com/edoRoGU/1/edit?js,output)
+        * [Simple](http://jsbin.com/woqusi/edit?html,js,output)
+        * [Classes](http://jsbin.com/nukamun/edit?js,output)
     * [Other frameworks](#test-frameworks)
 1. Cover AJAX/CORS/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
     * Network tab in Developer Tools
