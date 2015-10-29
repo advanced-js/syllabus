@@ -144,6 +144,7 @@ These apply to real life, as well.
     * Examples in QUnit
         * [Simple](http://jsbin.com/woqusi/edit?html,js,output)
         * [Classes](http://jsbin.com/nukamun/edit?js,output)
+        * [QUnit documentation](http://qunitjs.com/)
     * [Other frameworks](#test-frameworks)
 1. Cover AJAX/CORS/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
     * Network tab in Developer Tools
