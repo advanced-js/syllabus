@@ -169,8 +169,8 @@ These apply to real life, as well.
 
 #### Homework
 
-* [Namespace exercise](https://github.com/advanced-js/namespace)
 * [Mashup](https://github.com/advanced-js/mashup)
+* Improve your previous assignments
 
 ### Class 5
 
