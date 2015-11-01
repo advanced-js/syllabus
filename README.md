@@ -169,6 +169,7 @@ These apply to real life, as well.
 
 #### Homework
 
+* [Learn about AJAX](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax#readme)
 * [Mashup](https://github.com/advanced-js/mashup)
 * Improve your previous assignments
 
