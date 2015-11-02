@@ -152,7 +152,7 @@ These apply to real life, as well.
 #### Homework
 
 * Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* Complete [OOP exercise](https://github.com/advanced-js/oop) throught V4.
+* Complete [OOP exercise](https://github.com/advanced-js/oop) through V4.
 * [Memory V3](https://github.com/advanced-js/memory#v3)
 
 ### Class 4
