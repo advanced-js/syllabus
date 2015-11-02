@@ -266,7 +266,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 * Git and GitHub
     * [Official GitHub Help](https://help.github.com/)
-    * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+    * [Recommended resources](http://hackerhours.org/resources.html#github)
 * GitHub Pages
     * [Official site](http://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
