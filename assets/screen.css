@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+  .tocify {
+    position: relative;
+    width: auto;
+  }
+}
