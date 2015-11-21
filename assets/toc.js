@@ -27,12 +27,22 @@ $(function() {
   $('h2,h3,h4').each(function(i, el) {
     var anchor = getAnchor(el);
     var text = $(el).text();
-
     var $newNav = $('<li><a href="#' + anchor + '">' + text + '</a></li>');
 
+    var navLevel = parseInt(el.tagName.charAt(1), 10);
+    if (prevNavLevel) {
+      if (navLevel > prevNavLevel) {
+        var $childList = $('<ul></ul>');
+        $prevNav.append($childList);
+        $context = $childList;
+      } else if (navLevel < prevNavLevel) {
+        $context = $($context.parent());
+      }
+    }
     $context.append($newNav);
 
     $prevNav = $newNav;
+    prevNavLevel = navLevel;
   });
 
   $('.sticky').Stickyfill();
