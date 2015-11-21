@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'markdown_proofer'
-gem 'rake'
+gem 'github-pages'
+
+group :development, :test do
+  gem 'markdown_proofer'
+  gem 'rake'
+end
