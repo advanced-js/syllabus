@@ -33,7 +33,7 @@ $(function() {
     var i = 0;
     // `i` is just a safety valve, so we don't accidentally get an endless loop
     while (i < 10) {
-      var prevNav = $context.find('li:last')[0];
+      var prevNav = $context.children('li:last')[0];
       if (prevNav) {
         var $prevNav = $(prevNav);
         var prevNavLevel = $prevNav.data('nav-level');
@@ -44,7 +44,7 @@ $(function() {
           $context = $childList;
         } else if (navLevel < prevNavLevel) {
           // walk up the tree
-          var $parentContext = $context.parent().parent('ul');
+          var $parentContext = $context.parent('li').parent('ul');
           if ($parentContext.length) {
             $context = $parentContext;
           } else {
