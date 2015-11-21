@@ -1,6 +1,15 @@
-@media (max-width: 768px) {
-  .tocify {
-    position: relative;
-    width: auto;
-  }
+/* https://github.com/wilddeer/stickyfill */
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+.sticky:before,
+.sticky:after {
+  content: '';
+  display: table;
+}
+
+#toc {
+  top: 30px;
 }
