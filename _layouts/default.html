@@ -5,17 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Advanced JavaScript class</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/afeld/bootstrap-toc/2f761d4/dist/bootstrap-toc.min.css">
     <link rel="stylesheet" href="assets/screen.css" media="screen" charset="utf-8">
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/stickyfill/1.1.3/stickyfill.min.js" charset="utf-8"></script>
-    <script src="assets/toc.js" charset="utf-8"></script>
+    <script src="https://cdn.rawgit.com/afeld/bootstrap-toc/2f761d4/dist/bootstrap-toc.min.js"></script>
   </head>
-  <body>
+  <body data-spy="scroll" data-target="#toc">
     <div class="container">
       <div class="row">
-        <div id="toc" class="col-xs-12 col-sm-4"></div>
-        <div class="col-xs-12 col-sm-8">
+        <div class="col-sm-4">
+          <nav id="toc" data-spy="affix" data-toggle="toc"></nav>
+        </div>
+        <div class="col-sm-8">
           {{ content }}
         </div>
       </div>

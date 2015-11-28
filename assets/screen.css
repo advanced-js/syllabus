@@ -1,15 +1,16 @@
-/* https://github.com/wilddeer/stickyfill */
-.sticky {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-}
-.sticky:before,
-.sticky:after {
-  content: '';
-  display: table;
+nav[data-toggle=toc] {
+  margin-top: 30px;
 }
 
-#toc {
-  top: 30px;
+/* small screens */
+@media (max-width: 768px) {
+  /* override the Affix plugin so that the navigation isn't sticky */
+  nav.affix[data-toggle='toc'] {
+    position: static;
+  }
+
+  /* don't expand nested items, which pushes down the rest of the page when navigating */
+  nav[data-toggle=toc] .nav .active .nav {
+    display: none;
+  }
 }
