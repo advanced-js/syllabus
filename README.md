@@ -41,7 +41,7 @@ We will dive into the nuances of JavaScript, how prototypal inheritance compares
 
 Topics will be demonstrated through live-code examples/slides, available at [advanced-js.github.io/deck](http://advanced-js.github.io/deck/).  Additional exercises will completed in-class.
 
-See [this interview](http://masterstreet.wordpress.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
+See [this interview](https://masterstreet.wordpress.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
 
 ## Homework/Projects
 
@@ -58,7 +58,7 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/des
 1. Refresh the `index.html` page to see the results, and repeat.
 1. Make sure all of your code is committed.
 1. Push/sync up to GitHub.
-1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
+1. [Create a pull request](https://help.github.com/articles/creating-a-pull-request/) on the original repository. All assignments are due at the start of the following class, unless otherwise specified.
 1. You can continue to push fixes and improvements until the close date (listed in Classes) – just add a comment in the pull request to let me know it's been updated.
 
 When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
@@ -71,11 +71,11 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 These apply to real life, as well.
 
-* [Travis CI](http://docs.travis-ci.com) build should pass, which includes:
+* [Travis CI](https://docs.travis-ci.com/) build should pass, which includes:
     * All HTML files should pass [W3C Markup Validation](http://validator.w3.org).
     * All written JS should pass [JSHint](http://jshint.com).
 * Must apply "good programming style" learned in class
-    * Functions should be "short" (see [Sandi Metz's rules for developers](http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers)).
+    * Functions should be "short" (see [Sandi Metz's rules for developers](https://robots.thoughtbot.com/sandi-metz-rules-for-developers)).
     * Optimize for readability.
         * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
     * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
@@ -114,7 +114,7 @@ These apply to real life, as well.
 * Join [the chat room](https://gitter.im/advanced-js/syllabus).
 * Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted.
     * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
-* Read [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/).
+* Read [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/).
 * Finish up and submit [echo](https://github.com/advanced-js/echo) and [countdown](https://github.com/advanced-js/countdown) exercises.
 * Complete [blink](https://github.com/advanced-js/blink) exercise.
 
@@ -210,7 +210,7 @@ These apply to real life, as well.
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 * [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
 * [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-* [What’s so great about JavaScript Promises?](http://blog.parse.com/2013/01/29/whats-so-great-about-javascript-promises/)
+* [What’s so great about JavaScript Promises?](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
 * https://twitter.com/necolas/status/291978260433219584
 * http://afeld.me/nerdery/1742468
 
@@ -218,7 +218,7 @@ These apply to real life, as well.
 
 This class assumes you are confident with this material, but in case you need a brush-up...
 
-* Codecademy – [JavaScript](http://www.codecademy.com/tracks/javascript) and [jQuery](http://www.codecademy.com/tracks/jquery)
+* Codecademy – [JavaScript](https://www.codecademy.com/learn/javascript) and [jQuery](https://www.codecademy.com/learn/jquery)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
 * [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
 * see also – [Other Lists](#other-lists)
@@ -226,16 +226,16 @@ This class assumes you are confident with this material, but in case you need a 
 ### Recommended Reading
 
 * [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by Michael Fogus
-* [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
+* [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) by @darcyclarke (for testing yourself)
 * [JavaScript Best Practices](http://www.thinkful.com/learn/javascript-best-practices-1/)
-* [JavaScript Patterns](http://shichuan.github.com/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
+* [JavaScript Patterns](http://shichuan.github.io/javascript-patterns/) by @shichuan (thanks @iandrewfuchs)
 * [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stephanov
 * [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X/) by Alex MacCaw
 * [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
 * [Learning Advanced JavaScript slides](http://ejohn.org/apps/learn/) by John Resig
 * [Static Web Apps](http://www.staticapps.org/)
 * [Test-Driven JavaScript Development](http://www.amazon.com/Test-Driven-JavaScript-Development-Developers-Library/dp/0321683919) by Christian Johansen
-* [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted) by Martha Girdler [(video)](http://www.youtube.com/watch?v=iSxNCYcPAFk)
+* [The JavaScript Interpreter, Interpreted](http://www.slideshare.net/marthakelly/js-interpreter-interpreted) by Martha Girdler [(video)](https://www.youtube.com/watch?v=iSxNCYcPAFk)
 
 #### Specific Topics
 
@@ -247,8 +247,8 @@ This class assumes you are confident with this material, but in case you need a 
 #### Other Lists
 
 * [JS: The Right Way](http://www.jstherightway.org/) (an overview of the JS landscape)
-* [Code School](http://www.codeschool.com/paths/javascript)
-* Thoughtbot's [Javascript Trail Map](https://learn.thoughtbot.com/javascript)
+* [Code School](https://www.codeschool.com/paths/javascript)
+* Thoughtbot's [Javascript Trail Map](https://upcase.com/javascript)
 * [How To Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 * [Superhero.js](http://superherojs.com)
 * [Teach Yourself to Code](http://teachyourselftocode.com/javascript)
@@ -270,7 +270,7 @@ This class assumes you are confident with this material, but in case you need a 
     * [Official GitHub Help](https://help.github.com/)
     * [Recommended resources](http://hackerhours.org/resources.html#github)
 * GitHub Pages
-    * [Official site](http://pages.github.com/)
+    * [Official site](https://pages.github.com/)
     * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
 #### HTML/CSS/JS Sandboxes
@@ -281,7 +281,7 @@ This class assumes you are confident with this material, but in case you need a 
 * [CodePen](http://codepen.io/pen/)
 * [JSFiddle](http://jsfiddle.net/)
 * [Plunker](http://plnkr.co/)
-* [rawgithub.com](http://rawgithub.com/)
+* [rawgithub.com](http://rawgit.com/)
 
 #### Frameworks
 
