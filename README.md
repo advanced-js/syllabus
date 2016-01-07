@@ -59,30 +59,27 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 ### Class 1
 
 1. Introduction
-    * Put name on sticky note on back of monitor
-    * Discuss what the class is going to cover
+    * Introduce the significance of discrete mathematics in engineering and the current information society.
     * Everyone introduce themselves
         * Name
         * What you "do"
         * What are your goals for the class?
-
-1. Setup
-    * How many people are comfortable with Git/GitHub?
-    * Install [GitHub Desktop](https://desktop.github.com/)
-        * If you are comfortable with Git already, you can skip this.
-    * Sign up for GitHub
-1. GitHub workflow
-    * Walk through [workflow](#workflow)
-    * Create pull request on [students repository](https://github.com/advanced-js/students)
-1. Explain how slides work
-1. Get through `countdown_exercise` slide
-1. Talk through [requirements](#homework-projects/requirements)
+   * Syllabus discussion: ex. what the class is going to cover?
+   * Introduce the main references for this course (Textbook and Online resources)
+   * Define discrete mathematics
+   * Provide the rationale for the course
+   * Discuss important insights about the course and learning in general
+1. Ex. Logical puzzle: Knight and Knaves
+   * Introductyion to Logical Analysis
 
 #### Homework
 
-* Join [Github](https://github.com).
+* Sign up for [Github](https://github.com).
 * Read [Discrete Mathematics and its Applications](http://highered.mheducation.com/sites/0073383090/information_center_view0/index.html).
 * Download [CS103 materials](http://web.stanford.edu/class/cs103).
+* 'Fun' movies:
+   - [The Imitation Game](https://www.youtube.com/watch?v=S5CjKEFb-sM) 
+   - [The Social Network](https://www.youtube.com/watch?v=2RB3edZyeYw)
 
 
 ### Class 2
