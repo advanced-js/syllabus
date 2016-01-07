@@ -14,7 +14,7 @@ This course covers elementary discrete mathematics for engineering. It focuses o
 
 ## Course Overview
 
-We will start with a review of fundamental concepts on logic, sets, numbers, proofs, functions, relations, and then dive into algorithms (with complexity analysis) and proceed with the course on the introduction to basic data structures such as graphs and trees. The course will be concluded with an introduction to abstract models of computation, i.e. Finite-state machines. The focus will be on building a comprehensive foundation for computational problem-solving in engineering:
+We will start with a review of fundamental concepts on logic, sets, numbers, proofs, functions, relations, and then dive into algorithms (with complexity analysis) and proceed with the course on the introduction to basic data structures such as graphs and trees. The course will be concluded with an introduction to abstract models of computation, i.e. finite-state machines. The focus will be on building a comprehensive foundation for computational problem-solving in engineering:
 
 * Logic, Sets, and Functions
 * Relations
@@ -65,7 +65,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
         * What you "do"
         * What are your goals for the class?
    * Syllabus discussion: ex. what the class is going to cover?
-   * Introduce the main references for this course (Textbook and Online resources)
+   * Introduce the main references for this course (textbook and online resources)
    * Define discrete mathematics
    * Provide the rationale for the course
    * Discuss important insights about the course and learning in general
@@ -82,9 +82,9 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
    - [The Social Network](https://www.youtube.com/watch?v=2RB3edZyeYw)
 
 
-### Class 2
+### Class 1
 
-
+* TBA
 
 
 #### Homework
@@ -93,7 +93,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * Read []
 * ...
 
-### Class 3
+### Class 2
 
 
 
@@ -118,6 +118,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 ### Tools
 
+* [MIT App Inventor](http://appinventor.mit.edu/explore/)
 * sharing code snippets: [gist.github.com](https://gist.github.com/)
 * asking questions: [Stack Overflow](http://stackoverflow.com/)
 
