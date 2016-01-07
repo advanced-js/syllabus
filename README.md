@@ -59,7 +59,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 ### Class 1
 
 1. Introduction
-    * Introduce the significance of discrete mathematics in engineering and the current information society.
+    * Introduce discrete mathematics and its significance in engineering and the current information society.
     * Everyone introduce themselves
         * Name
         * What you "do"
