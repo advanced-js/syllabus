@@ -74,7 +74,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 #### Homework
 
-* Sign up for [Github](https://github.com).
+* Sign up for [Github](https://github.com) and email your username.
 * Read [Discrete Mathematics and its Applications](http://highered.mheducation.com/sites/0073383090/information_center_view0/index.html).
 * Download [CS103 materials](http://web.stanford.edu/class/cs103).
 * 'Fun' movies:
