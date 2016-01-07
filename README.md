@@ -14,7 +14,7 @@ This course covers elementary discrete mathematics for engineering. It focuses o
 
 ## Course Overview
 
-We will start with a review of fundamental concepts on logic, sets, numbers, proofs, functions, relations, and then dive into the algorithm (with complexity analysis) and proceed with the course on the introduction to basic data structures such as graphs and trees. The course will be concluded with an introduction to abstract models of computation, i.e. Finite-state machines. The focus will be on building a comprehensive foundation for computational problem-solving in engineering:
+We will start with a review of fundamental concepts on logic, sets, numbers, proofs, functions, relations, and then dive into algorithms (with complexity analysis) and proceed with the course on the introduction to basic data structures such as graphs and trees. The course will be concluded with an introduction to abstract models of computation, i.e. Finite-state machines. The focus will be on building a comprehensive foundation for computational problem-solving in engineering:
 
 * Logic, Sets, and Functions
 * Relations
