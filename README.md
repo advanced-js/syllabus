@@ -1,6 +1,6 @@
 # Discrete Mathematics syllabus
 
-* **Course:** DISMATH 
+* **Course Code:** DISMATH 
 * **Course Title:** Discrete Mathematics and its Applications
 * **Instructor:** Melvin Cabatuan, [melvin.cabatuan@dlsu.edu.ph](mailto:melvin.cabatuan@dlsu.edu.ph)
 
@@ -14,7 +14,7 @@ This course covers elementary discrete mathematics for engineering. It focuses o
 
 ## Course Overview
 
-We will start with the fundamental concepts on logic, sets, numbers, proofs, functions, relations, and then dive into the algorithm (with complexity analysis) and proceed with the course with the introduction to basic data structures such as graphs and trees. The course will be concluded with an introduction to abstract models of computation, i.e. Finite-state machines. The focus will be on building a comprehensive foundation for computational problem-solving in engineering, as follows:
+We will start with a review of fundamental concepts on logic, sets, numbers, proofs, functions, relations, and then dive into the algorithm (with complexity analysis) and proceed with the course on the introduction to basic data structures such as graphs and trees. The course will be concluded with an introduction to abstract models of computation, i.e. Finite-state machines. The focus will be on building a comprehensive foundation for computational problem-solving in engineering:
 
 * Logic, Sets, and Functions
 * Relations
@@ -144,11 +144,9 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 ## Statements on Plagiarism
 
-### SCPS
-
 > "Plagiarism refers to the use of another's ideas, information, language, or writing, when done without proper acknowledgment of the original source." http://www.dlsu.edu.ph/library/webliography/subject/plagiarism.asp
 
-> DLSU considers Plagiarism a major offense subject to the following corrective measures and formative interventions:
+> DLSU considers plagiarism a major offense subject to the following corrective measures and formative interventions:
 
 * Probation for such time and under such conditions as the Student Discipline Formation Board (SDFB) or University Panel for Case Conference (UPCC) may determine <sup>1</sup>
 * Suspension for such time and under such conditions as the SDFB or UPCC may determine.
