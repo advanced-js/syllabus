@@ -111,10 +111,6 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * [MIT, Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/index.htm)
 
 
-### Beginner Materials
-
-* Codecademy – [JavaScript](https://www.codecademy.com/learn/javascript) and [jQuery](https://www.codecademy.com/learn/jquery)
-
 
 ### Tools
 
