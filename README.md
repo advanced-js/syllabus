@@ -20,6 +20,7 @@ We will start with a review of fundamental concepts on logic, sets, numbers, pro
 * Relations
 * Methods of Proof
 * Sequences, Series, Induction, and Recursion
+* Counting Fundamentals and  Advanced Counting Techniques
 * Algorithms and Complexity Analysis
 * Elementary Graph Theory
     * Euler and Hamiltonian Paths
@@ -27,7 +28,6 @@ We will start with a review of fundamental concepts on logic, sets, numbers, pro
 * Trees 
     * Tree Traversal
     * Spanning Trees
-* Counting Fundamentals and  Advanced Counting Techniques
 * Modeling Computation
 
 
