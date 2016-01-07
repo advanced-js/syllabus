@@ -56,7 +56,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 ## Course Outline
 
-### Class 1
+### Class 0
 
 1. Introduction
     * Introduce discrete mathematics and its significance in engineering and the current information society.
@@ -70,7 +70,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
    * Provide the rationale for the course
    * Discuss important insights about the course and learning in general
 1. Ex. Logical puzzle: Knight and Knaves
-   * Introductyion to Logical Analysis
+   * Introduction to logical analysis
 
 #### Homework
 
