@@ -111,6 +111,15 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * [MIT, Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/index.htm)
 
 
+### Recommended tutorial videos
+
+* [Introduction to Logic](https://www.youtube.com/watch?v=paRt4R71d8s) - Definition, Connectives, and Compound Statements.
+* [Truth tables of logical connectives](https://youtu.be/oKQrt6myHLQ?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) - Negation (NOT), Conjunction (AND), Disjunction (OR), Conditional (Implication), Biconditional (XNOR), and Exclusive-OR (XOR).     
+* [Logical Equivalence and Proof by Truth Table](https://www.youtube.com/watch?v=UB9hPtB9dKA&index=8&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+* [Proof using Logic Laws](https://www.youtube.com/watch?v=_xjz99xHH8Q&index=9&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) - Identity, Domination, Double Negation, DeMorgan's, Distributive, Absorption, Commutativity, Associativity, and Inverse laws.
+* [Conditionals: Converse, Inverse, and Contrapositive](https://www.youtube.com/watch?v=p9VVi90n_48&index=10&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) 
+* [Predicate Logic/ Quantificational Logic](https://www.youtube.com/watch?v=XGeIynFIUHs&index=11&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) Negation, 
+
 
 ### Tools
 
