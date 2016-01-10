@@ -118,7 +118,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * [Logical Equivalence and Proof by Truth Table](https://www.youtube.com/watch?v=UB9hPtB9dKA&index=8&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
 * [Proof using Logic Laws](https://www.youtube.com/watch?v=_xjz99xHH8Q&index=9&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) - Identity, Domination, Double Negation, DeMorgan's, Distributive, Absorption, Commutativity, Associativity, and Inverse laws.
 * [Conditionals: Converse, Inverse, and Contrapositive](https://www.youtube.com/watch?v=p9VVi90n_48&index=10&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) 
-* [Predicate Logic/ Quantificational Logic](https://www.youtube.com/watch?v=XGeIynFIUHs&index=11&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) Negation, 
+* [Predicate Logic/ Quantificational Logic with Negation](https://www.youtube.com/watch?v=XGeIynFIUHs&index=11&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) 
 
 
 ### Tools
