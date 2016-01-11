@@ -80,11 +80,16 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * 'Fun' movies:
    - [The Imitation Game](https://www.youtube.com/watch?v=S5CjKEFb-sM) 
    - [The Social Network](https://www.youtube.com/watch?v=2RB3edZyeYw)
+   - [Why programming is hard to learn?](https://www.youtube.com/watch?v=pvAsqPbz9Ro)
 
 
 ### Class 1
 
-* TBA
+* What is a proof?
+* Logical Connectives
+* Truth table of logical connectives
+* Proof by Truth Table
+* [Slide](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
 
 #### Homework
