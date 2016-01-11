@@ -89,14 +89,15 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * Logical Connectives
 * Truth table of logical connectives
 * Proof by Truth Table
-* [Slide](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
 
 #### Homework
 
 
-* Read []
-* ...
+* Read Chapter 1 of K. Rosen's [Discrete Mathematics and its Applications](http://highered.mheducation.com/sites/0073383090/information_center_view0/index.html). 
+* Watch the recommended tutorial videos below.
+
 
 ### Class 2
 
