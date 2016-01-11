@@ -88,7 +88,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * What is a mathematical proof?
 * What is a proposition?
 * Logical connectives
-* Truth table of logical connectives
+* Truth tables of logical connectives
 * Bitwise logical operations
 * Proof by Truth Table
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
