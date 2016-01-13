@@ -112,13 +112,13 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 * Determine whether this argument is valid.
 
-> " If Superman were able and willing to prevent evil,
+> " *Superman were able and willing to prevent evil,
 he would do so. If Superman were unable to prevent
 evil, he would be impotent; if he were unwilling
 to prevent evil, he would be malevolent. Superman
 does not prevent evil. If Superman exists, he is neither
 impotent nor malevolent. Therefore, Superman
-does not exist."
+does not exist*."
 
 ## Project Pairing Tips
 
