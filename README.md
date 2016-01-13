@@ -80,7 +80,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * 'Fun' movies:
    - [The Imitation Game](https://www.youtube.com/watch?v=S5CjKEFb-sM) 
    - [The Social Network](https://www.youtube.com/watch?v=2RB3edZyeYw)
-   - [Is programming hard to learn?](https://www.youtube.com/watch?v=pvAsqPbz9Ro)
+   - [Is programming hard to learn?](https://www.youtube.com/watch?v=pvAsqPbz9Ro) (Video clip)
 
 
 ### Class 1
@@ -103,7 +103,22 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 ### Class 2
 
+* Proof by logical equivalences
+* Predicate/Quantification logic
+* Rules of Inference
+* Introduction to proofs
 
+#### Homework
+
+* Determine whether this argument is valid.
+
+> " If Superman were able and willing to prevent evil,
+he would do so. If Superman were unable to prevent
+evil, he would be impotent; if he were unwilling
+to prevent evil, he would be malevolent. Superman
+does not prevent evil. If Superman exists, he is neither
+impotent nor malevolent. Therefore, Superman
+does not exist."
 
 ## Project Pairing Tips
 
