@@ -131,7 +131,7 @@ does not exist*."
 
 ### Required Reading
 
-* [Discrete Mathematics and its Applications](http://highered.mheducation.com/sites/0073383090/information_center_view0/index.html).
+* [Discrete Mathematics and its Applications](http://highered.mheducation.com/sites/0073383090/information_center_view0/index.html). [ebook](http://www2.fiit.stuba.sk/~kvasnicka/Mathematics%20for%20Informatics/Rosen_Discrete_Mathematics_and_Its_Applications_7th_Edition.pdf)
 * [Stanford, Mathematical Foundations of Computing](http://web.stanford.edu/class/cs103/)
 * [MIT, Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2005/index.htm)
 
