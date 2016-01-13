@@ -101,7 +101,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * Watch the recommended tutorial videos below.
 
 
-### Class 2
+### Class 2 & 3
 
 * Proof by logical equivalences
 * Predicate/Quantification logic
