@@ -106,7 +106,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * Proof by logical equivalences
 * Predicate/Quantification logic
 * Rules of Inference
-* Introduction to proofs
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
 #### Homework
 
