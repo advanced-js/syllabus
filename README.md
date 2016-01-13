@@ -120,6 +120,8 @@ does not prevent evil. If Superman exists, he is neither
 impotent nor malevolent. Therefore, Superman
 does not exist*."
 
+* Watch the tutorial session on conditionals: [Conditionals: Converse, Inverse, and Contrapositive](https://www.youtube.com/watch?v=p9VVi90n_48&index=10&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz). You should be able to distinguish Converse, Inverse, and Contrapositive forms. 
+
 ## Project Pairing Tips
 
 * Three people is possible, but two works best
