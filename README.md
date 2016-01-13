@@ -80,7 +80,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 * 'Fun' movies:
    - [The Imitation Game](https://www.youtube.com/watch?v=S5CjKEFb-sM) 
    - [The Social Network](https://www.youtube.com/watch?v=2RB3edZyeYw)
-   - [Is programming is hard to learn?](https://www.youtube.com/watch?v=pvAsqPbz9Ro)
+   - [Is programming hard to learn?](https://www.youtube.com/watch?v=pvAsqPbz9Ro)
 
 
 ### Class 1
