@@ -105,6 +105,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 
 * Proof by logical equivalences
 * Predicate/Quantification logic
+   - *Quantifier* expresses that some property is true for some (∃) or all (∀) choices that could be made.
 * Rules of Inference
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
