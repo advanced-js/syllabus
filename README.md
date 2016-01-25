@@ -112,6 +112,7 @@ Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE
 #### Homework
 
 * Read 'Section 1.5 Nested Quantifiers' of K. Rosen's [Discrete Mathematics and its Applications](http://highered.mheducation.com/sites/0073383090/information_center_view0/index.html). 
+* Read 'Section 1.6 Rules of Inference of K. Rosen's [Discrete Mathematics and its Applications](http://highered.mheducation.com/sites/0073383090/information_center_view0/index.html). 
 * Determine whether this argument is valid.
 
 > " *Superman were able and willing to prevent evil,
