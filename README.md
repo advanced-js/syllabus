@@ -125,6 +125,25 @@ does not exist*."
 
 * Watch the tutorial session on conditionals: [Conditionals: Converse, Inverse, and Contrapositive](https://www.youtube.com/watch?v=p9VVi90n_48&index=10&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz). You should be able to distinguish Converse, Inverse, and Contrapositive forms. 
 
+
+### Class 4
+
+* Methods of Proof
+* Review: A *proof* is an argument that demonstrates why a conclusion is true. Thus, a *mathematical proof* is an argument
+that demonstrates why a mathematical statement is true.
+* Direct Proof
+* Proof by Contraposition (Indirect)
+* Vacuous and Trivial Proof
+
+
+### Class 5
+
+* Proof by Contradiction (Indirect)
+* Proof by Equivalence
+* Induction
+
+
+
 ## Project Pairing Tips
 
 * Three people is possible, but two works best
