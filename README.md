@@ -134,13 +134,16 @@ that demonstrates why a mathematical statement is true.
 * Direct Proof
 * Proof by Contraposition (Indirect)
 * Vacuous and Trivial Proof
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
 
 ### Class 5
 
+* Vacuous and Trivial Proof Review
+* Homework Solution: "Superman does not exist!" Argument  
 * Proof by Contradiction (Indirect)
 * Proof by Equivalence
-* Induction
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
 
 
