@@ -145,6 +145,13 @@ that demonstrates why a mathematical statement is true.
 * Proof by Equivalence
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
+## Departmental Quiz Shedule
+
+* February 9, 2016 (FRI) 1300-1430 HRS.; Venue: T.B.A.
+* March 11, 2016 (FRI)  1300-1430 HRS. ; Venue: T.B.A.
+* April 1, 2016 (FRI) 1300-1430 HRS.   ; Venue: T.B.A.
+
+Note: Any schedule conflict will be settled within the same date for the corresponding Quiz.
 
 
 ## Project Pairing Tips
