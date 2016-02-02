@@ -147,7 +147,7 @@ that demonstrates why a mathematical statement is true.
 
 ## Departmental Quiz Shedule
 
-* February 9, 2016 (FRI) 1230-1430 HRS.; Venue: T.B.A.
+* February 19, 2016 (FRI) 1230-1430 HRS.; Venue: T.B.A.
 * March 11, 2016 (FRI)  1230-1430 HRS. ; Venue: T.B.A.
 * April 1, 2016 (FRI) 1230-1430 HRS.   ; Venue: T.B.A.
 
