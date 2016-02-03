@@ -1,1 +1,3 @@
 _site/
+tmp/
+Gemfile.lock
