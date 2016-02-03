@@ -85,7 +85,7 @@ These apply to real life, as well.
         * ["Programs must be written for people to read, and only incidentally for machines to execute." -Harold Abelson](https://www.goodreads.com/quotes/9168-programs-must-be-written-for-people-to-read-and-only)
     * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
     * For projects, use Object-Oriented Programming.
-* Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
+* Any borrowed code must be properly [annotated](#instructor).
 * Bonus points for:
     * Automated tests
     * Creativity (as long as requirements are fulfilled)
