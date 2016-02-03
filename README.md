@@ -13,7 +13,7 @@ permalink: /
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
     * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
-    * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [Meetup page](http://www.meetup.com/hackerhours/events/calendar/) for schedule)
+    * Office Hours during [Hacker Hours](http://hackerhours.org/) (see [schedule](http://www.meetup.com/hackerhours/events/calendar/))
    * [Email](mailto:alf9@nyu.edu) for 1-on-1 help, or to set up a time to meet
 
 ## Course Description
@@ -54,7 +54,12 @@ All assignments are listed within the [Course Outline](#course-outline).
 
 ### Workflow
 
-If you're using GitHub Desktop, [these instructions](https://help.github.com/desktop/guides/contributing/) will help explain the Git/GitHub concepts. Here are the overall steps:
+If you're using GitHub Desktop, these general instructions will help:
+
+* <https://guides.github.com/activities/forking/>
+* <https://help.github.com/desktop/guides/contributing/>
+
+Enabling `Edit`->`Automatically Sync after Committing` is recommended. Here are the steps:
 
 1. Fork the repository for the exercise/project (found under [github.com/advanced-js](https://github.com/advanced-js)).
 1. Clone the repository to your computer.
@@ -68,9 +73,11 @@ If you're using GitHub Desktop, [these instructions](https://help.github.com/des
 
 When the pull request is created, you should see a message saying that "the Travis CI build is in progress" – this means that your solution is being automatically checked for syntax errors.  If this "build" ends up failing (which will show a red "X"), click through the "details" link and scroll to the bottom to see what the errors were.  Per the [requirements](#requirements) below, please fix the issues and push up the changes.
 
-Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request as the work is still in-progress if you are stuck and want to ask a question – just mention `@afeld` with the question to make sure I know to look at it sooner.
+Feedback will be given in the pull request, so please respond with your thoughts and questions!  You are welcome to open the pull request early as a work-in-progress if you are stuck and want to ask a question.  Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.
 
-Note that your solution will also be live at `http://USERNAME.github.io/EXERCISE`.  For exercises with multiple levels/versions, leave a new comment in the pull request saying "Level X finished!" before pushing commits for the next level. "BONUS" levels are for extra credit.
+#### Versions
+
+For exercises with multiple Versions (`V1`, `V2`, etc.) listed in the README: these are intended as guidelines for how to complete the assignments in the smallest/simplest possible increments.  You are expected to reach the highest Version for each assignment by the due date. See also: [extra credit](#extra-credit).
 
 ### Requirements
 
@@ -86,9 +93,14 @@ These apply to real life, as well.
     * Avoid using anonymous callbacks within other functions, especially if the callback is more than one or two lines.
     * For projects, use Object-Oriented Programming.
 * Any borrowed code must be properly [annotated](#instructor).
-* Bonus points for:
-    * Automated tests
-    * Creativity (as long as requirements are fulfilled)
+
+#### Extra Credit
+
+Bonus points for:
+
+* Automated tests
+* Creativity (as long as requirements are fulfilled)
+* Anything listed under `BONUS` in the README of the exercise.
 
 ## Course Outline
 
