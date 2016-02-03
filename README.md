@@ -46,7 +46,7 @@ We will dive into the nuances of JavaScript, how prototypal inheritance compares
 
 Topics will be demonstrated through live-code examples/slides, available at [advanced-js.github.io/deck](http://advanced-js.github.io/deck/).  Additional exercises will completed in-class.
 
-See [this interview](https://masterstreet.wordpress.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
+See [this interview](https://web.archive.org/web/20140306162909/http://blog.masterstreet.com/2013/09/05/interview-with-aidan-feldman-instructor-at-nyu-scps/) for more background.
 
 ## Homework/Projects
 
@@ -87,7 +87,7 @@ These apply to real life, as well.
     * For projects, use Object-Oriented Programming.
 * Any borrowed code must be properly [annotated](http://documentup.com/advanced-js/syllabus#statements-on-plagiarism/instructor).
 * Bonus points for:
-    * [Automated tests](#test-frameworks)
+    * Automated tests
     * Creativity (as long as requirements are fulfilled)
 
 ## Course Outline
@@ -112,7 +112,7 @@ These apply to real life, as well.
     * Create pull request on [students repository](https://github.com/advanced-js/students)
 1. Explain how slides work
 1. Get through `countdown_exercise` slide
-1. Talk through [requirements](#homework-projects/requirements)
+1. Talk through [requirements](#requirements)
 
 #### Homework
 
@@ -152,7 +152,7 @@ These apply to real life, as well.
         * [Simple](http://jsbin.com/woqusi/edit?html,js,output)
         * [Classes](http://jsbin.com/nukamun/edit?js,output)
         * [QUnit documentation](http://qunitjs.com/)
-    * [Other frameworks](#test-frameworks)
+    * Other frameworks
 1. Cover AJAX/CORS/JSONP ([files](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax))
     * Network tab in Developer Tools
 
@@ -246,7 +246,7 @@ This class assumes you are confident with this material, but in case you need a 
 
 * [Classical Inheritance in JavaScript](http://www.crockford.com/javascript/inheritance.html) by Douglas Crockford
 * [Partial Application in JavaScript](http://benalman.com/news/2012/09/partial-application-in-javascript/) by Ben Alman (thanks @michaelBenin)
-* [HTML5 Rocks slides](http://slides.html5rocks.com/)
+* [HTML5 Rocks](http://www.html5rocks.com)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) by Addy Osmani
 
 #### Other Lists
