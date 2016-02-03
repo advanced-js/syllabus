@@ -1,15 +1,8 @@
-require 'rubygems'
-require 'bundler'
-Bundler.require(:default)
+require 'html/proofer'
 
-desc "Run Mardown validation for the repository"
-task :validate_markdown do
-  MarkdownProofer::RakeTask.run(
-    html_proofer: {
-      # TODO fix in HTML::Proofer
-      href_ignore: [/@nyu\.edu/]
-    }
-  )
+task :test do
+  sh 'bundle exec jekyll build'
+  HTML::Proofer.new('./_site').run
 end
 
-task default: :validate_markdown
+task default: :test
