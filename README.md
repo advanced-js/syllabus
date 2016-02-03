@@ -142,7 +142,12 @@ that demonstrates why a mathematical statement is true.
 * Vacuous and Trivial Proof Review
 * Homework Solution: "Superman does not exist!" Argument  
 * Proof by Contradiction (Indirect)
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+
+### Class 6
+
 * Proof by Equivalence
+* Mathematical Induction
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
 ## Departmental Quiz Shedule
