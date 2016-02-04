@@ -2,6 +2,10 @@ nav[data-toggle=toc] {
   margin-top: 30px;
 }
 
+.github-fork-ribbon {
+  background-color: #50ba9b;
+}
+
 /* small screens */
 @media (max-width: 768px) {
   /* override the Affix plugin so that the navigation isn't sticky */
