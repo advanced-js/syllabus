@@ -6,6 +6,14 @@ nav[data-toggle=toc] {
   background-color: #50ba9b;
 }
 
+footer {
+  color: #757575;
+  font-size: 0.9em;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  text-align: center;
+}
+
 /* small screens */
 @media (max-width: 768px) {
   /* override the Affix plugin so that the navigation isn't sticky */
