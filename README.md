@@ -132,6 +132,7 @@ Bonus points for:
 #### Homework
 
 * Join [the chat room](https://gitter.im/advanced-js/syllabus).
+* [Set up your GitHub profile.](https://github.com/settings/profile)
 * Access [NYU Classes](https://newclasses.nyu.edu) page, where grades will be posted.
     * [Documentation](https://wikis.nyu.edu/display/nyuclasses/Student+Quick-Start)
 * Read [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/).
