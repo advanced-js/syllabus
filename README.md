@@ -149,11 +149,34 @@ that demonstrates why a mathematical statement is true.
 * Proof by Equivalence
 * Mathematical Induction
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+* 
+
+### Class 7
+
+* Mathematical Induction
+* Summation and Sequences (covered in ENGALG)
+* Recursive definitions and Structural Induction
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+
+### Class 8
+
+* Recursive Algorithms
+* Program Correctness
+* Representation of Functions as Power series
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+
+### Class 9
+
+* Sets and Set operations
+* Functions
+* Graph of Functions
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+
 
 ## Departmental Quiz Shedule
 
 * Quiz 1: February 19, 2016 (FRI) 1230-1430 HRS.; Venue: T.B.A.
-* Quiz 2: March 11, 2016 (FRI)  1230-1430 HRS. ; Venue: T.B.A.
+* Quiz 2: March 18, 2016 (FRI)  1230-1430 HRS. ; Venue: T.B.A.
 * Quiz 3: April 1, 2016 (FRI) 1230-1430 HRS.   ; Venue: T.B.A.
 
 Note: Any schedule conflict will be settled within the same date for the corresponding Quiz.
