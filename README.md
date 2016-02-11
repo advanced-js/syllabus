@@ -25,11 +25,11 @@ Computers are provided in the lab, though you are encouraged to bring a laptop f
 ## Prerequisites
 
 * [INFO1-CE9755 - JavaScript](http://scps.nyu.edu/content/scps/academics/course_detail.html?id=INFO1-CE9755) ([syllabus](http://samsultan.com/javascript)) or equivalent
-* Understanding of variables, data types, control flow, and basic function usage in JavaScript - see [Beginner Materials](#beginner-materials)
+* Understanding of variables, data types, control flow, and basic function usage in JavaScript
 * Strong intermediate knowledge of HTML, and at least basics of CSS
-* Basic jQuery knowledge (DOM interaction) is a plus
+* Basic jQuery knowledge (DOM interaction like adding/removing elements/classes, etc.)
 
-These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts.
+These won't be enforced by the instructor, but you will be pretty lost without understanding those concepts. If you need a refresher, take a look at the [Beginner Materials](#beginner-materials).
 
 ## Course Overview
 
@@ -240,6 +240,7 @@ This class assumes you are confident with this material, but in case you need a 
 * Codecademy – [JavaScript](https://www.codecademy.com/learn/javascript) and [jQuery](https://www.codecademy.com/learn/jquery)
 * [Eloquent JavaScript](http://eloquentjavascript.net/index.html) by Marijn Haverbeke, Chapters 1-5
 * [Want to learn JavaScript in 2015?](https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225)
+* [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
 * see also – [Other Lists](#other-lists)
 
 ### Recommended Reading
