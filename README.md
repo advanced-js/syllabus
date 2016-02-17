@@ -165,20 +165,20 @@ that demonstrates why a mathematical statement is true.
 * Representation of Functions as Power series
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
+### Interlude
+* Brief Review
+* Nested Quantifiers
+* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+
 ### Class 9
 
 * Sets and Set operations
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
-### Class 10
-* Brief Review
-* Nested Quantifiers
-* [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
-
 ### Quiz 1: February 19, 2016 (FRI) 1230-1430 HRS.; Venue: Section EK & EL at AG703; Section EQ at AG702
 Coverage: Class 0 - Class 8
 
-### Class 11
+### Class 10
 * Functions
 * Graph of Functions
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
