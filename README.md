@@ -180,8 +180,11 @@ Coverage: Class 0 - Class 8
 
 ### Class 10
 * Functions
-* Graph of Functions
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
+
+#### Homework
+
+* Study Graph of Functions
 
 ## Departmental Quiz Shedule
 
@@ -192,6 +195,41 @@ Coverage: Class 0 - Class 8
 * Quiz 3: April 1, 2016 (FRI) 1230-1430 HRS.   ; Venue: T.B.A.
 
 Note: Any schedule conflict will be settled within the same date for the corresponding Quiz.
+
+
+### Class 11
+
+* Introduction to Algorithms
+- Finding the maximum
+- Pseudocode
+- Preconditions and Postconditions
+- Properties of Algorithm
+* [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismath-part2-2013)
+* Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
+
+### Class 12
+
+* Searching Algorithms
+- Linear Search
+- Binary Search
+* [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismath-part2-2013)
+* Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
+
+### Class 13
+
+* Sorting Algorithms
+- Bubble Sort
+- Insertion Sort
+* [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismath-part2-2013)
+* Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
+
+### Class 14
+
+* Growth of Functions
+* Algorithm Time Complexity
+- Big-Omega and Big-Theta Notation
+* [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismath-part2-2013)
+* Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
 
 
 ## Project Pairing Tips
