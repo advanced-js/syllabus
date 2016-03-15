@@ -182,21 +182,6 @@ Coverage: Class 0 - Class 8
 * Functions
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
-#### Homework
-
-* Study Graph of Functions
-
-## Departmental Quiz Shedule
-
-* Quiz 1: February 19, 2016 (FRI) 1230-1430 HRS.; Venue: Section EK & EL at AG703; EQ at AG702
-Coverage: Class 0 - Class 8
-
-* Quiz 2: March 18, 2016 (FRI)  1230-1430 HRS. ; Venue: T.B.A.
-* Quiz 3: April 1, 2016 (FRI) 1230-1430 HRS.   ; Venue: T.B.A.
-
-Note: Any schedule conflict will be settled within the same date for the corresponding Quiz.
-
-
 ### Class 11
 
 * Introduction to Algorithms
@@ -230,6 +215,23 @@ Note: Any schedule conflict will be settled within the same date for the corresp
 - Big-Omega and Big-Theta Notation
 * [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismath-part2-2013)
 * Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
+
+
+#### Homework
+
+* Study Graph of Functions
+
+## Departmental Quiz Shedule
+
+* Quiz 1: February 19, 2016 (FRI) 1230-1430 HRS.; Venue: Section EK & EL at AG703; EQ at AG702
+Coverage: Class 0 - Class 8
+
+* Quiz 2: March 18, 2016 (FRI)  1230-1430 HRS. ; Venue: Venue: Section EK & EL at AG703; EQ at AG702
+Coverage: Class 8 - Class 14
+
+* Quiz 3: April 1, 2016 (FRI) 1230-1430 HRS.   ; Venue: T.B.A.
+
+Note: Any schedule conflict will be settled within the same date for the corresponding Quiz.
 
 
 ## Project Pairing Tips
