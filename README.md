@@ -158,7 +158,7 @@ that demonstrates why a mathematical statement is true.
 * Recursive definitions and Structural Induction
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
-### Class 8
+### Class 8 
 
 * Recursive Algorithms
 * Program Correctness
@@ -227,7 +227,7 @@ Coverage: Class 0 - Class 8
 Coverage: Class 0 - Class 8
 
 * Quiz 2: March 18, 2016 (FRI)  1230-1430 HRS. ; Venue: Venue: Section EK & EL at AG703; EQ at AG702
-Coverage: Class 8 - Class 14
+Coverage: Class 8 (Recursive Algorithms ONLY) - Class 14
 
 * Quiz 3: April 1, 2016 (FRI) 1230-1430 HRS.   ; Venue: T.B.A.
 
