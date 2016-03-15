@@ -182,6 +182,10 @@ Coverage: Class 0 - Class 8
 * Functions
 * [Slide Presentation](https://docs.google.com/presentation/d/1OzJWPZaCS3Mugrj9mWqDz2k5C0vxi2xcRftrGBvdfho/edit?usp=sharing)
 
+#### Homework
+
+* Self-Study: Graph of Functions
+
 ### Class 11
 
 * Introduction to Algorithms
@@ -217,9 +221,7 @@ Coverage: Class 0 - Class 8
 * Or [Slide Presentation](http://www.slideshare.net/MelvinCabatuan1/dismathpart2)
 
 
-#### Homework
 
-* Study Graph of Functions
 
 ## Departmental Quiz Shedule
 
