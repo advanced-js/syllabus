@@ -313,6 +313,7 @@ This class assumes you are confident with this material, but in case you need a 
 * [Mozilla Developer Network](https://developer.mozilla.org/en/JavaScript) and [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
 * [w3schools](http://www.w3schools.com/jsref/default.asp)
 * [JavaScript: The Definitive Guide](http://shop.oreilly.com/product/9780596000486.do) by David Flanagan
+* [Simplified JavaScript Jargon](http://jargon.js.org/)
 
 ### More Examples
 
