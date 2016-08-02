@@ -6,6 +6,11 @@ nav[data-toggle=toc] {
   background-color: #50ba9b;
 }
 
+.logo {
+  height: 2em;
+  vertical-align: baseline;
+}
+
 footer {
   color: #757575;
   font-size: 0.9em;
