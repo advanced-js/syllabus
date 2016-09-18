@@ -300,6 +300,7 @@ This class assumes you are confident with this material, but in case you need a 
 * [Cloud9](https://c9.io/)
 * [CodePen](http://codepen.io/pen/)
 * [JSFiddle](http://jsfiddle.net/)
+* [Mozilla Thimble](https://thimble.mozilla.org)
 * [Plunker](http://plnkr.co/)
 * [rawgithub.com](http://rawgit.com/)
 
