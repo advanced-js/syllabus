@@ -174,7 +174,7 @@ Bonus points for:
 
 #### Homework
 
-* Read [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* Read [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * Complete [OOP exercise](https://github.com/advanced-js/oop) through V4.
 * [Memory V3](https://github.com/advanced-js/memory#v3)
 
@@ -228,7 +228,7 @@ Bonus points for:
 
 ### Required Reading
 
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [JavaScript Garden](http://bonsaiden.github.com/JavaScript-Garden/)
 * [Mozilla's Introduction to Object-Oriented Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * [What’s so great about JavaScript Promises?](http://blog.parse.com/learn/engineering/whats-so-great-about-javascript-promises/)
